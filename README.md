@@ -1,6 +1,6 @@
 # Music Trends ETL & Analysis (Last.fm 2020-2024)
 
-Ce projet implémente un pipeline ETL pour analyser les dynamiques de popularité dans l'industrie musicale sur les 5 dernières années. En utilisant l'API Last.fm, le script traite 1000 (/900) titres pour identifier les corrélations entre notoriété des artistes et succès des morceaux.
+Ce projet implémente un pipeline ETL pour analyser les dynamiques de popularité dans l'industrie musicale sur les 5 dernières années. En utilisant l'API Last.fm, le script traite 900 titres (l' API limite à 100 titres pour l'année 2021) pour identifier les corrélations entre la notoriété des artistes et le succès des morceaux.
 
 ## Architecture
 - **Extraction** : Collecte des Top 200 morceaux annuels via l'API Last.fm.
