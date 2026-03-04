@@ -1,0 +1,15 @@
+# Tests
+pytest==9.0.2
+flake8==7.0.0
+
+# API
+requests==2.31.0
+spotipy==2.25.0
+python-dotenv==1.0.0
+
+# Data
+pandas==2.0.3
+numpy==2.0.3
+
+# Observability
+matplotlib==3.7.2
