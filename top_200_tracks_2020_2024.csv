@@ -1,0 +1,901 @@
+﻿track_name,artist_name,year,name,playcount,listeners,genres,artist_popularity,album_name,release_date,duration_ms,track_listeners,ranking_year,track_weight_in_artist,true_rank
+Save Your Tears,The Weeknd,2020,The Weeknd,1095012174,5233527,"['rnb', 'electronic', 'dubstep', 'Canadian', 'prog-rnb']",1095012174,Hit Connection 2021.1,N/A,216000.0,1819150.0,2020,34.75954170103641,1
+Telepatía,Kali Uchis,2020,Kali Uchis,307120156,3011779,"['rnb', 'Neo-Soul', 'soul', 'alternative rnb', 'pop']",307120156,Best in the World,N/A,160000.0,1611327.0,2020,53.500837876882734,2
+The Adults Are Talking,The Strokes,2020,The Strokes,472079320,5651179,"['indie rock', 'indie', 'rock', 'alternative', 'alternative rock']",472079320,The New Abnormal,N/A,309000.0,1586456.0,2020,28.073009189763766,3
+Heather,Conan Gray,2020,Conan Gray,244693650,2379267,"['pop', 'indie pop', 'indie', 'my top songs', 'yearning']",244693650,Now 35,N/A,198000.0,1491657.0,2020,62.69397255541308,4
+Good Days,SZA,2020,SZA,575399022,3438127,"['rnb', 'soul', 'alternative rnb', 'electronic', 'Neo-Soul']",575399022,Hits 8 - as Grandes Músicas do Momento,N/A,278000.0,1481137.0,2020,43.07976406921559,5
+Levitating (feat. DaBaby),Dua Lipa,2020,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,"Now That's What I Call Music, Vol. 77",N/A,203000.0,1236252.0,2020,38.342526220197556,6
+positions,Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,"Now That's What I Call Music, Vol. 77",N/A,172000.0,1222105.0,2020,27.73681791617256,7
+Break My Heart,Dua Lipa,2020,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,Just Hits,N/A,221000.0,1118297.0,2020,34.68413563291971,8
+exile (feat. Bon Iver),Taylor Swift,2020,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,folklore (deluxe version),N/A,285000.0,1058997.0,2020,18.06079393019168,9
+Dynamite,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,Dynamite - EP,N/A,199000.0,1038802.0,2020,44.836206591444885,10
+In Your Eyes,The Weeknd,2020,The Weeknd,1095012174,5233527,"['rnb', 'electronic', 'dubstep', 'Canadian', 'prog-rnb']",1095012174,NRJ Holiday Hits 2020,N/A,237000.0,1029576.0,2020,19.672698736435297,11
+Physical,Dua Lipa,2020,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,Physical,N/A,193000.0,993793.0,2020,30.822626907741128,12
+Therefore I Am,Billie Eilish,2020,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,"Now That's What I Call Music, Vol. 77",N/A,173000.0,983453.0,2020,23.65540213219083,13
+Godzilla (feat. Juice WRLD),Eminem,2020,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Discover More Hip Hop,N/A,210000.0,922815.0,2020,11.944238862255965,14
+My Future,Billie Eilish,2020,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,Now That's What I Call Music! Vol. 76,N/A,210000.0,915184.0,2020,22.013299613654063,15
+Rain on Me (with Ariana Grande),Lady Gaga,2020,Lady Gaga,1011759640,7632370,"['pop', 'dance', 'electronic', 'female vocalists', 'female vocalist']",1011759640,Chromatica (Deluxe),N/A,182000.0,910515.0,2020,11.929649637006591,16
+Kyoto,Phoebe Bridgers,2020,Phoebe Bridgers,284452858,2120975,"['singer-songwriter', 'folk', 'indie folk', 'indie', 'indie rock']",284452858,I See You,N/A,184000.0,874874.0,2020,41.248671012152435,17
+How You Like That,BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,How You Like That,N/A,181000.0,870663.0,2020,44.596623379417274,18
+Life Is Good (feat. Drake),Future,2020,Future,449794315,3171840,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'atlanta']",449794315,Life Is Good (feat. Drake) - Single,N/A,237000.0,838268.0,2020,26.428445318805487,19
+Angels Like You,Miley Cyrus,2020,Miley Cyrus,295900006,4785176,"['pop', 'female vocalists', 'dance', 'Disney', 'guilty pleasure']",295900006,Plastic Hearts [Explicit],N/A,196000.0,838233.0,2020,17.517286720488443,20
+No Time to Die,Billie Eilish,2020,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,Everything I Wanted / No Time To Die,N/A,240000.0,831298.0,2020,19.995554929097754,21
+pov,Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,"Now That's What I Call Music, Vol. 79",N/A,195000.0,827374.0,2020,18.778028063525927,22
+betty,Taylor Swift,2020,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,folklore (deluxe version),N/A,294000.0,768511.0,2020,13.10666489525989,23
+Laugh Now Cry Later (feat. Lil Durk),Drake,2020,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Laugh Now Cry Later (feat. Lil Durk) - Single,N/A,261000.0,733013.0,2020,11.028272649571493,24
+Steeeam,Shelly,2020,Shelly,17670519,831141,"['indie pop', 'Lo-Fi', 'bedroom pop', 'dream pop', 'clairo']",17670519,Shelly,N/A,171000.0,727727.0,2020,87.55758649856041,25
+Stuck with U (with Justin Bieber),Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,Stuck With U [Cassette Single],N/A,228000.0,725138.0,2020,16.457686262716816,26
+Mood (feat. iann dior),24kGoldn,2020,24kGoldn,23118400,1192618,"['Hip-Hop', 'rap', 'trap', 'pop', 'emo rap']",23118400,Now That's What I Call Music Vol. 83,N/A,140000.0,709901.0,2020,59.52459211583256,27
+Blueberry Faygo,Lil Mosey,2020,Lil Mosey,26580607,957234,"['cloud rap', 'rap', 'Hip-Hop', 'lil mosey', 'american']",26580607,Massive Hits,N/A,162000.0,702383.0,2020,73.37631133035391,28
+Garden Song,Phoebe Bridgers,2020,Phoebe Bridgers,284452858,2120975,"['singer-songwriter', 'folk', 'indie folk', 'indie', 'indie rock']",284452858,Garden Song,N/A,220000.0,694107.0,2020,32.725845424863564,29
+THE SCOTTS,The Scotts,2020,The Scotts,7486458,693530,[],7486458,Love Language,N/A,162000.0,692587.0,2020,99.86402895332573,30
+Took Her To The O,King Von,2020,King Von,60194029,985572,"['drill', 'rap', 'Hip-Hop', 'trap', 'hip hop']",60194029,Took Her To The O,N/A,196000.0,680171.0,2020,69.01281692255867,31
+Midnight Sky,Miley Cyrus,2020,Miley Cyrus,295900006,4785176,"['pop', 'female vocalists', 'dance', 'Disney', 'guilty pleasure']",295900006,Now That's What I Call Music! Vol. 76,N/A,223000.0,670495.0,2020,14.011919310804869,32
+What You Know Bout Love,Pop Smoke,2020,Pop Smoke,133311339,1554776,"['drill', 'rap', 'trap', 'Hip-Hop', 'hip hop']",133311339,"Now That's What I Call Music, Vol. 77",N/A,160000.0,656744.0,2020,42.24042563044452,33
+I Want You to Love Me,Fiona Apple,2020,Fiona Apple,176029530,2701393,"['female vocalists', 'singer-songwriter', 'alternative', 'piano', 'indie']",176029530,Fetch the Bolt Cutters,N/A,238000.0,653307.0,2020,24.1840783625337,34
+Breathe Deeper,Tame Impala,2020,Tame Impala,399575749,4217192,"['Psychedelic Rock', 'psychedelic', 'indie rock', 'australian', 'rock']",399575749,Calme,N/A,372000.0,650931.0,2020,15.435175823154365,35
+Ode to the Mets,The Strokes,2020,The Strokes,472079320,5651179,"['indie rock', 'indie', 'rock', 'alternative', 'alternative rock']",472079320,The New Abnormal,N/A,351000.0,648663.0,2020,11.478365841888923,36
+Toosie Slide,Drake,2020,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Toosie Slide,N/A,247000.0,640504.0,2020,9.636463125675997,37
+WHATS POPPIN,Jack Harlow,2020,Jack Harlow,76846451,1821134,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'pop rap']",76846451,Just Hits,N/A,139000.0,614620.0,2020,33.74930125954488,38
+Kings & Queens,Ava Max,2020,Ava Max,65946023,1558463,"['pop', 'electropop', 'female vocalists', 'american', 'USA']",65946023,L'été France Bleu 2021,N/A,162000.0,611215.0,2020,39.219089577359235,39
+Roses - Imanbek Remix,SAINt JHN,2020,SAINt JHN,21251630,966598,"['Hip-Hop', 'rap', 'trap', 'rnb', 'electronic']",21251630,N/A,N/A,0.0,596099.0,2020,61.66979447505582,40
+ON,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,"BTS, THE BEST",N/A,246000.0,589957.0,2020,25.463402970026095,41
+ROCKSTAR (feat. Roddy Ricch),DaBaby,2020,DaBaby,54055455,1466801,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'american']",54055455,"Now That's What I Call Music, Vol. 75",N/A,181000.0,589239.0,2020,40.17170700047246,42
+My Oh My (feat. DaBaby),Camila Cabello,2020,Camila Cabello,127125500,2365581,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",127125500,N/A,N/A,171000.0,588112.0,2020,24.86120745812551,43
+Can I Call You Rose?,Thee Sacred Souls,2020,Thee Sacred Souls,28152730,1162267,"['soul', 'funk', 'rnb', 'United States', 'USA']",28152730,Can I Call You Rose?,N/A,188000.0,586918.0,2020,50.4976911501402,44
+Pretty Savage,BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,THE ALBUM,N/A,202000.0,585805.0,2020,30.005782901971873,45
+Ice Cream (with Selena Gomez),BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,Ice Cream (with Selena Gomez) - Single,N/A,176000.0,559871.0,2020,28.67740575636926,46
+Stupid Love,Lady Gaga,2020,Lady Gaga,1011759640,7632370,"['pop', 'dance', 'electronic', 'female vocalists', 'female vocalist']",1011759640,Massive Hits,N/A,193000.0,547623.0,2020,7.175005928695804,47
+Falling Apart,Slow Pulp,2020,Slow Pulp,24126376,866493,"['dream pop', 'shoegaze', 'indie rock', 'indie pop', 'Lo-Fi']",24126376,Idaho / Falling Apart,N/A,166000.0,543074.0,2020,62.67494370987418,48
+safety net (feat. Ty Dolla $ign),Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,Positions (Deluxe Edition),N/A,208000.0,503829.0,2020,11.434871172188398,49
+Brooklyn Bridge to Chorus,The Strokes,2020,The Strokes,472079320,5651179,"['indie rock', 'indie', 'rock', 'alternative', 'alternative rock']",472079320,The New Abnormal,N/A,234000.0,501427.0,2020,8.872962615411756,50
+Bad Decisions,The Strokes,2020,The Strokes,472079320,5651179,"['indie rock', 'indie', 'rock', 'alternative', 'alternative rock']",472079320,The New Abnormal,N/A,286000.0,497607.0,2020,8.80536610148077,51
+FRANCHISE (feat. Young Thug & M.I.A.),Travis Scott,2020,Travis Scott,667663266,3280150,[],667663266,FRANCHISE (feat. Young Thug & M.I.A.),N/A,202000.0,478675.0,2020,14.593082633416154,52
+911,Lady Gaga,2020,Lady Gaga,1011759640,7632370,"['pop', 'dance', 'electronic', 'female vocalists', 'female vocalist']",1011759640,Brand New Hits,N/A,172000.0,463949.0,2020,6.078701635271875,53
+forever,Charli xcx,2020,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,Forever,N/A,243000.0,461903.0,2020,12.468074217356072,54
+Body,Megan Thee Stallion,2020,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,Good News,N/A,171000.0,457738.0,2020,20.091076080348856,55
+Blue Hour,TOMORROW X TOGETHER,2020,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,minisode1 : Blue Hour,N/A,210000.0,457106.0,2020,38.02960796156988,56
+love language,Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,Positions,N/A,179000.0,449167.0,2020,10.194265871552345,57
+POPSTAR (feat. Drake),DJ Khaled,2020,DJ Khaled,60411069,2835151,"['Hip-Hop', 'rap', 'hip hop', 'miami', 'djs']",60411069,POPSTAR (feat. Drake) - Single,N/A,200000.0,447605.0,2020,15.78769525855942,58
+Let Me Love You Like a Woman,Lana Del Rey,2020,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Sad Girl,N/A,200000.0,442527.0,2020,8.542309552865852,59
+Savage Remix (feat. Beyoncé),Megan Thee Stallion,2020,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,N/A,N/A,242000.0,442439.0,2020,19.41957104263458,60
+Not Shy,ITZY,2020,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,Not Shy,N/A,177000.0,429346.0,2020,43.71887286023984,61
+Intentions (feat. Quavo),Justin Bieber,2020,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,MegaHits Sommer 2020,N/A,212000.0,423835.0,2020,9.004938709646577,62
+Wonder,Shawn Mendes,2020,Shawn Mendes,139015463,2672470,"['pop', 'Canadian', 'folk', 'male vocalists', 'acoustic']",139015463,Chilled Acoustic,N/A,172000.0,423754.0,2020,15.85626779720633,63
+Girls in the Hood,Megan Thee Stallion,2020,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,Girls In The Hood,N/A,154000.0,421088.0,2020,18.482431094910055,64
+00:00 (Zero O’Clock),BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,N/A,N/A,0.0,416541.0,2020,17.978515953768902,65
+You should be sad,Halsey,2020,Halsey,218583046,2774603,"['pop', 'indie pop', 'indie', 'alternative', 'female vocalists']",218583046,Ultimate Party,N/A,205000.0,415075.0,2020,14.959797852161191,66
+Smile (with The Weeknd),Juice WRLD,2020,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,Smile (with The Weeknd),N/A,196000.0,405895.0,2020,16.580630692640995,67
+Yummy,Justin Bieber,2020,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,Party,N/A,208000.0,404507.0,2020,8.594289623610623,68
+MORE,K/DA,2020,K/DA,29900327,813569,"['k-pop', 'pop', 'Korean', 'league of legends', 'Kpop']",29900327,More,N/A,205000.0,404370.0,2020,49.70322123876401,69
+Level of Concern,Twenty One Pilots,2020,Twenty One Pilots,419608422,3291476,"['electronic', 'alternative', 'rap', 'indie pop', 'indie']",419608422,Level of Concern,N/A,207000.0,402137.0,2020,12.217527941871671,70
+Monster,Red Velvet - IRENE & SEULGI,2020,Red Velvet - IRENE & SEULGI,18589631,500753,"['k-pop', 'Kpop', 'pop', 'Korean', 'red velvet']",18589631,Monster - The 1st Mini Album,N/A,178000.0,400768.0,2020,80.0330701962844,71
+MORE & MORE,TWICE,2020,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,MORE & MORE,N/A,199000.0,398680.0,2020,21.32545387731392,72
+Weak for Your Love,Thee Sacred Souls,2020,Thee Sacred Souls,28152730,1162267,"['soul', 'funk', 'rnb', 'United States', 'USA']",28152730,Can I Call You Rose?,N/A,260000.0,397919.0,2020,34.23645341388855,73
+Friends,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,MAP OF THE SOUL : 7,N/A,199000.0,392101.0,2020,16.923649974405254,74
+MAGO,GFRIEND,2020,GFRIEND,45705925,601422,[],45705925,回:Walpurgis Night,N/A,221000.0,391052.0,2020,65.02123301109704,75
+Natural,Shelly,2020,Shelly,17670519,831141,"['indie pop', 'Lo-Fi', 'bedroom pop', 'dream pop', 'clairo']",17670519,Shelly,N/A,163000.0,388362.0,2020,46.7263677282194,76
+Good in Goodbye,Madison Beer,2020,Madison Beer,105326464,1638084,"['pop', 'female vocalists', 'rnb', 'indie', 'my top songs']",105326464,Life Support,N/A,141000.0,385660.0,2020,23.543359192813067,77
+Sum 2 Prove,Lil Baby,2020,Lil Baby,165257183,1592233,"['rap', 'Hip-Hop', 'hip hop', 'trap', 'atlanta']",165257183,My Turn (Deluxe / Audio Only),N/A,206000.0,382614.0,2020,24.030025756280647,78
+Not PLaying,Playboi Carti,2020,Playboi Carti,765040341,2438179,"['trap', 'cloud rap', 'Hip-Hop', 'rap', 'rage']",765040341,Whole Lotta Red,N/A,130000.0,370805.0,2020,15.208276340662438,79
+Party Girl,StaySolidRocky,2020,StaySolidRocky,4133549,431081,"['Hip-Hop', 'rap', 'indie', 'electronic', 'trap']",4133549,NOW That's What I Call Music! 106,N/A,149000.0,368621.0,2020,85.51084366975115,80
+west side,Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,Positions,N/A,132000.0,364667.0,2020,8.276459206890486,81
+LA DI DA,Everglow,2020,Everglow,35914985,641505,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",35914985,-77.82X-78.29,N/A,210000.0,361901.0,2020,56.41436933461158,82
+Inner Child,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,MAP OF THE SOUL : 7,N/A,233000.0,355570.0,2020,15.34691883315594,83
+Telepathy,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,BE,N/A,202000.0,352858.0,2020,15.229864965069433,84
+DUN DUN,Everglow,2020,Everglow,35914985,641505,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",35914985,reminiscence - EP,N/A,208000.0,352221.0,2020,54.90541772862254,85
+Lonely (with benny blanco),Justin Bieber,2020,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,Lonely (with benny blanco),N/A,149000.0,348358.0,2020,7.401329382932185,86
+Rare,Selena Gomez,2020,Selena Gomez,201423254,3130971,"['pop', 'female vocalists', 'Disney', 'pop rock', 'dance']",201423254,Now That's What I Call Music! Vol. 74,N/A,220000.0,347009.0,2020,11.083111277619627,87
+Shameika,Fiona Apple,2020,Fiona Apple,176029530,2701393,"['female vocalists', 'singer-songwriter', 'alternative', 'piano', 'indie']",176029530,Fetch the Bolt Cutters,N/A,249000.0,333907.0,2020,12.360548798342188,88
+Stay,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,BE,N/A,206000.0,325345.0,2020,14.04236383208122,89
+Baby Powder,Jenevieve,2020,Jenevieve,7599204,418300,"['rnb', 'soul', 'USA', 'american', 'cuban']",7599204,Division,N/A,176000.0,323640.0,2020,77.37030839110686,90
+Love to Hate Me,BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,THE ALBUM,N/A,169000.0,323276.0,2020,16.55866623435761,91
+Over Now (with The Weeknd),Calvin Harris,2020,Calvin Harris,203633856,4941812,"['electronic', 'dance', 'electro', 'Disco', 'electronica']",203633856,Over Now,N/A,211000.0,307759.0,2020,6.22765495733144,92
+Savage Love (Laxed - Siren Beat),Jawsh 685,2020,Jawsh 685,6537046,524076,"['Hip-Hop', 'electronic', 'pop', 'New Zealand', 'bts']",6537046,Now That's What I Call Music Vol. 83,N/A,171000.0,307011.0,2020,58.581388958853296,93
+Fly to My Room,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,BE,N/A,222000.0,306395.0,2020,13.224454244972339,94
+Take You Dancing,Jason Derulo,2020,Jason Derulo,59804257,3080732,[],59804257,Paradise - Summer Feeling,N/A,190000.0,304248.0,2020,9.875834704219647,95
+Diamonds,Sam Smith,2020,Sam Smith,111853937,3049190,"['soul', 'pop', 'british', 'electronic', 'dance']",111853937,Now 35,N/A,213000.0,292893.0,2020,9.605600175784389,96
+Seems Like,Thee Sinseers,2020,Thee Sinseers,1991686,310525,"['rnb', 'soul', 'los angeles', 'United States', 'daptone']",1991686,Seems Like,N/A,194000.0,286883.0,2020,92.38644231543354,97
+Tap In,Saweetie,2020,Saweetie,18663600,1170381,"['Hip-Hop', 'rap', 'better than selena gomez', 'urban', 'female rapper']",18663600,Just Hits,N/A,139000.0,283789.0,2020,24.24757408057718,98
+Holy (feat. Chance the Rapper),Justin Bieber,2020,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,"Now That's What I Call Music, Vol. 77",N/A,212000.0,283559.0,2020,6.02458837889432,99
+Yikes,Nicki Minaj,2020,Nicki Minaj,304255046,4699361,"['Hip-Hop', 'rap', 'rnb', 'pop', 'hip hop']",304255046,Poppin,N/A,156000.0,281976.0,2020,6.000305147870104,100
+La Difícil,Bad Bunny,2020,Bad Bunny,382878834,2475994,"['Reggaeton', 'trap', 'latin', 'puerto rico', 'trap latino']",382878834,YHLQMDLG,N/A,163000.0,273862.0,2020,11.0606891616054,101
+Susie Save Your Love,Allie X,2020,Allie X,40059617,846161,"['synthpop', 'electropop', 'pop', 'Canadian', 'dance-pop']",40059617,N/A,N/A,234000.0,271194.0,2020,32.04992903241818,102
+Fairy of Shampoo,TOMORROW X TOGETHER,2020,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Dream Chapter: ETERNITY,N/A,267000.0,269370.0,2020,22.41063450623724,103
+"Baby, I'm Jealous (feat. Doja Cat)",Bebe Rexha,2020,Bebe Rexha,37160436,1434248,"['pop', 'female vocalists', 'electronic', 'singer-songwriter', 'alternative']",37160436,"Now That's What I Call Music, Vol. 77",N/A,175000.0,258278.0,2020,18.0079037934862,104
+Daisies,Katy Perry,2020,Katy Perry,429941777,7048299,"['pop', 'female vocalists', 'pop rock', 'indie', 'rock']",429941777,"Now That's What I Call Music, Vol. 75",N/A,174000.0,257314.0,2020,3.650724806084418,105
+Cuz I Love You,Lizzo,2020,Lizzo,55680048,1729503,"['pop', 'Hip-Hop', 'rnb', 'hip hop', 'rap']",55680048,Tempo (feat. Missy Elliott),N/A,179000.0,253729.0,2020,14.67063081127931,106
+What a Man Gotta Do,Jonas Brothers,2020,Jonas Brothers,74618747,2144878,"['pop', 'pop rock', 'Disney', 'rock', 'pop punk']",74618747,Massive Hits,N/A,180000.0,244452.0,2020,11.397011858017098,107
+You Never Know,BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,BLACKPINK: THE SHOW,N/A,229000.0,231579.0,2020,11.861812716954864,108
+Bet You Wanna (feat. Cardi B),BLACKPINK,2020,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,THE ALBUM (Japan Version),N/A,159000.0,222411.0,2020,11.392214441683608,109
+Ashes,Stellar,2020,Stellar,10304626,465201,"['k-pop', 'pop', 'Korean', 'female vocalists', 'Kpop']",10304626,Ashes,N/A,166000.0,220769.0,2020,47.456690763777374,110
+So What,Loona,2020,Loona,111267797,1134537,"['pop', 'dance', 'k-pop', 'latin', 'female vocalists']",111267797,[#] - EP,N/A,198000.0,216324.0,2020,19.067161317788667,111
+Criminal,TAEMIN,2020,TAEMIN,50869787,613974,"['k-pop', 'Korean', '태민', 'pop', 'Kpop']",50869787,Never Gonna Dance Again : Act 1,N/A,211000.0,215247.0,2020,35.05799919866314,112
+me & ur ghost,blackbear,2020,blackbear,69197574,1751279,"['electronic', 'pop', 'hip hop', 'Hip-Hop', 'rnb']",69197574,Freshly Squeezed Hits,N/A,199000.0,214373.0,2020,12.240939336336472,113
+Jesus Christ 2005 God Bless America,The 1975,2020,The 1975,295987777,2613156,"['indie', 'indie rock', 'british', 'alternative', 'rock']",295987777,Notes on a Conditional Form,N/A,238000.0,212274.0,2020,8.123280814463431,114
+NONSTOP,OH MY GIRL,2020,OH MY GIRL,22724336,430242,"['k-pop', 'Korean', 'girl group', 'pop', 'Kpop']",22724336,NONSTOP - EP,N/A,203000.0,208634.0,2020,48.49224389994468,115
+Spotlight,Jessie Ware,2020,Jessie Ware,54442764,1135612,"['soul', 'pop', 'electronic', 'female vocalists', 'chillout']",54442764,What's Your Pleasure? (The Platinum Pleasure Edition),N/A,331000.0,208264.0,2020,18.339362387857825,116
+BOCA,Dreamcatcher,2020,Dreamcatcher,79061004,557395,"['k-pop', 'rock', 'Korean', 'k-rock', 'Kpop']",79061004,Crossroads: Part 2. Dystopia Concert,N/A,0.0,207940.0,2020,37.30568089057132,117
+UP NO MORE,TWICE,2020,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Eyes wide open,N/A,214000.0,207884.0,2020,11.119746799015568,118
+Skit,BTS,2020,BTS,2967402208,2316882,"['k-pop', 'bts', 'Kpop', 'Korean', 'pop']",2967402208,BE,N/A,180000.0,203359.0,2020,8.777270486800795,119
+Dolphin,OH MY GIRL,2020,OH MY GIRL,22724336,430242,"['k-pop', 'Korean', 'girl group', 'pop', 'Kpop']",22724336,NONSTOP - EP,N/A,177000.0,201092.0,2020,46.739276965056874,120
+Smile,Katy Perry,2020,Katy Perry,429941777,7048299,"['pop', 'female vocalists', 'pop rock', 'indie', 'rock']",429941777,Tropical House Mix,N/A,166000.0,199976.0,2020,2.8372235627347817,121
+To Die For,Sam Smith,2020,Sam Smith,111853937,3049190,"['soul', 'pop', 'british', 'electronic', 'dance']",111853937,Heartbreak,N/A,193000.0,195593.0,2020,6.4145887924334,122
+Una Vez,Bad Bunny,2020,Bad Bunny,382878834,2475994,"['Reggaeton', 'trap', 'latin', 'puerto rico', 'trap latino']",382878834,N/A,N/A,232000.0,186686.0,2020,7.539840565041757,123
+Wrong Direction,Hailee Steinfeld,2020,Hailee Steinfeld,27261207,1274145,"['pop', 'female vocalists', 'dance', 'teen pop', 'american']",27261207,Car Jams,N/A,249000.0,182219.0,2020,14.301276542308763,124
+Hypnotized,Purple Disco Machine,2020,Purple Disco Machine,10516491,582974,"['House', 'electronic', 'deep house', 'Disco', 'C']",10516491,Kontor Top of the Clubs 2020.04,N/A,195000.0,181992.0,2020,31.21785877243239,125
+I Love Me,Demi Lovato,2020,Demi Lovato,196681853,3334640,"['pop', 'pop rock', 'female vocalists', 'Disney', 'guilty pleasure']",196681853,Pop At Home,N/A,203000.0,181780.0,2020,5.451263104862894,126
+Don't Wanna,HAIM,2020,HAIM,69024418,1524141,"['indie', 'indie pop', 'female vocalists', 'indie rock', 'soul']",69024418,"Women in Music, Pt. III",N/A,201000.0,180649.0,2020,11.852512333176524,127
+No Judgement,Niall Horan,2020,Niall Horan,70411861,1296894,"['pop', 'folk', 'irish', 'singer-songwriter', 'male vocalists']",70411861,Melted,N/A,176000.0,176423.0,2020,13.603501905321483,128
+Dumhdurum,Apink,2020,Apink,18946135,406750,[],18946135,LOOK,N/A,0.0,173396.0,2020,42.62962507682852,129
+Those Kinda Nights (feat. Ed Sheeran),Eminem,2020,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Music To Be Murdered By - Side B (Deluxe Edition),N/A,177000.0,170614.0,2020,2.2083021724234424,130
+React,The Pussycat Dolls,2020,The Pussycat Dolls,53012792,3234687,"['pop', 'rnb', 'dance', 'female vocalists', 'Hip-Hop']",53012792,"The Dome, Vol. 94",N/A,262000.0,170303.0,2020,5.26489889129922,131
+Honeymoon Fades,Sabrina Carpenter,2020,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Honeymoon Fades - Single,N/A,195000.0,166925.0,2020,5.261958365828178,132
+WOW,Zara Larsson,2020,Zara Larsson,77760970,2185312,"['pop', 'swedish', 'female vocalists', 'indie', 'Sweden']",77760970,WOW - Single,N/A,178000.0,164902.0,2020,7.545924792432385,133
+Darkness,Eminem,2020,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Music To Be Murdered By: Side B (Deluxe Edition),N/A,0.0,163666.0,2020,2.1183723689254994,134
+Dead Horse,Hayley Williams,2020,Hayley Williams,50493349,781475,"['rock', 'female vocalists', 'alternative rock', 'indie', 'pop punk']",50493349,Petals For Armor II,N/A,199000.0,162396.0,2020,20.780703157490642,135
+Shot in the Dark,AC/DC,2020,AC/DC,210840303,4509544,"['hard rock', 'classic rock', 'rock', 'heavy metal', 'metal']",210840303,Power Up,N/A,185000.0,156656.0,2020,3.4738767378697273,136
+Lovefool,twocolors,2020,twocolors,3146571,289840,"['C', 'dance', 'german', 'pop', 'electronic']",3146571,Massive Dance Hits,N/A,192000.0,155317.0,2020,53.58715153187966,137
+Trade It,Slow Pulp,2020,Slow Pulp,24126376,866493,"['dream pop', 'shoegaze', 'indie rock', 'indie pop', 'Lo-Fi']",24126376,Moveys,N/A,172000.0,152838.0,2020,17.638688367938343,138
+Love Me Land,Zara Larsson,2020,Zara Larsson,77760970,2185312,"['pop', 'swedish', 'female vocalists', 'indie', 'Sweden']",77760970,Poster Girl,N/A,160000.0,151288.0,2020,6.922947386917749,139
+Wishlist,TOMORROW X TOGETHER,2020,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,minisode1 : Blue Hour,N/A,193000.0,149066.0,2020,12.401765761988196,140
+Anyone,Demi Lovato,2020,Demi Lovato,196681853,3334640,"['pop', 'pop rock', 'female vocalists', 'Disney', 'guilty pleasure']",196681853,Lonely Songs,N/A,227000.0,147585.0,2020,4.425815080488449,141
+Eleven,Khalid,2020,Khalid,94851741,2271778,"['soul', 'pop', 'rnb', 'alternative rnb', 'alternative']",94851741,Mega Hits 2020,N/A,206000.0,147447.0,2020,6.490378901459562,142
+AYA,MAMAMOO,2020,MAMAMOO,41144354,725771,"['k-pop', 'pop', 'Korean', 'Kpop', 'girl group']",41144354,Travel,N/A,212000.0,146973.0,2020,20.25060246276029,143
+Dingga,MAMAMOO,2020,MAMAMOO,41144354,725771,"['k-pop', 'pop', 'Korean', 'Kpop', 'girl group']",41144354,Dingga - Single,N/A,179000.0,146541.0,2020,20.19107955539695,144
+Holiday,Little Mix,2020,Little Mix,112383401,1823338,"['pop', 'british', 'female vocalists', 'Girl Groups', 'X factor']",112383401,Now That's What I Call Music Vol. 83,N/A,213000.0,145337.0,2020,7.970930238935403,145
+QUEEN,TWICE,2020,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Eyes wide open,N/A,193000.0,140597.0,2020,7.5205549282349375,146
+Past Life (with Selena Gomez),Trevor Daniel,2020,Trevor Daniel,12425659,803389,"['pop', 'rnb', 'Hip-Hop', 'rap', 'american']",12425659,N/A,N/A,0.0,139996.0,2020,17.425680461146467,147
+Amnesia,Kai,2020,Kai,43258487,699824,"['exo', 'rnb', 'Kpop', 'k-pop', 'pop']",43258487,KAI - The 1st Mini Album,N/A,178000.0,136171.0,2020,19.45789227005647,148
+No Regrets (feat. Don Toliver),Eminem,2020,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Music To Be Murdered By - Side B (Deluxe Edition),N/A,200000.0,135785.0,2020,1.7575012043707852,149
+Nobody's Love,Maroon 5,2020,Maroon 5,281970159,6564586,"['pop rock', 'rock', 'pop', 'alternative', 'alternative rock']",281970159,Now That's What I Call Music! Vol. 76,N/A,211000.0,133851.0,2020,2.0389861599802335,150
+Magic,Kylie Minogue,2020,Kylie Minogue,173587223,3504437,"['pop', 'dance', 'female vocalists', 'australian', 'electronic']",173587223,Magic,N/A,251000.0,129074.0,2020,3.683159377668938,151
+Lexapro Delirium,Sewerslvt,2020,Sewerslvt,39897859,524319,"['breakcore', 'Drum and bass', 'atmospheric drum and bass', 'electronic', 'australian']",39897859,Draining Love Story,N/A,435000.0,128236.0,2020,24.457629801704687,152
+Sudden Desire,Hayley Williams,2020,Hayley Williams,50493349,781475,"['rock', 'female vocalists', 'alternative rock', 'indie', 'pop punk']",50493349,Petals for Armor,N/A,187000.0,127463.0,2020,16.31056655683163,153
+I’m Ready (with Demi Lovato),Sam Smith,2020,Sam Smith,111853937,3049190,"['soul', 'pop', 'british', 'electronic', 'dance']",111853937,N/A,N/A,0.0,125691.0,2020,4.122111118034626,154
+Underdog,Alicia Keys,2020,Alicia Keys,101124412,4167155,"['soul', 'rnb', 'female vocalists', 'pop', 'singer-songwriter']",101124412,Alicia,N/A,208000.0,123652.0,2020,2.967300232412761,155
+Say Something,Kylie Minogue,2020,Kylie Minogue,173587223,3504437,"['pop', 'dance', 'female vocalists', 'australian', 'electronic']",173587223,Magic,N/A,212000.0,123587.0,2020,3.5265864388488084,156
+Leaving Heaven (feat. Skylar Grey),Eminem,2020,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Music To Be Murdered By - Side B (Deluxe Edition),N/A,265000.0,123070.0,2020,1.5929275930471887,157
+Leave It Alone,Hayley Williams,2020,Hayley Williams,50493349,781475,"['rock', 'female vocalists', 'alternative rock', 'indie', 'pop punk']",50493349,Leave It Alone,N/A,245000.0,116978.0,2020,14.9688729645862,158
+Tucked,Katy Perry,2020,Katy Perry,429941777,7048299,"['pop', 'female vocalists', 'pop rock', 'indie', 'rock']",429941777,Best Pop Songs 2021,N/A,187000.0,116611.0,2020,1.654455919080618,159
+Oh Yeah!,Green Day,2020,Green Day,438568755,6520124,"['punk rock', 'rock', 'punk', 'pop punk', 'alternative']",438568755,Oh Yeah!,N/A,171000.0,110501.0,2020,1.694768381705624,160
+AUATC,Bon Iver,2020,Bon Iver,236503590,3533128,"['folk', 'indie', 'singer-songwriter', 'acoustic', 'Lo-Fi']",236503590,AUATC,N/A,142000.0,107070.0,2020,3.0304591285682263,161
+SOUL LADY,YUKIKA,2020,YUKIKA,12356136,276387,"['city pop', 'k-pop', 'synthpop', 'japanese', 'pop']",12356136,Soul Lady,N/A,215000.0,105880.0,2020,38.30860351608433,162
+Nectar,WayV,2020,WayV,42640811,537466,"['C-pop', 'NCT', 'k-pop', 'chinese', 'cpop']",42640811,NCT RESONANCE Pt. 1 - The 2nd Album,N/A,198000.0,105244.0,2020,19.581517714608925,163
+Why We Ever,Hayley Williams,2020,Hayley Williams,50493349,781475,"['rock', 'female vocalists', 'alternative rock', 'indie', 'pop punk']",50493349,Petals For Armor [Explicit],N/A,263000.0,103088.0,2020,13.19146485812086,164
+Conversations in the Dark,John Legend,2020,John Legend,55507116,3169293,"['soul', 'rnb', 'Neo-Soul', 'singer-songwriter', 'Hip-Hop']",55507116,Now 35,N/A,237000.0,100878.0,2020,3.182981188548992,165
+Girlfriend,Charlie Puth,2020,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,Girlfriend,N/A,177000.0,96313.0,2020,3.995095365360852,166
+Over Yet,Hayley Williams,2020,Hayley Williams,50493349,781475,"['rock', 'female vocalists', 'alternative rock', 'indie', 'pop punk']",50493349,Petals for Armor,N/A,214000.0,92880.0,2020,11.885217057487443,167
+Birthday,Anne-Marie,2020,Anne-Marie,20456312,1175322,"['pop', 'rnb', 'british', 'electronic', 'female vocalists']",20456312,BIRTHDAY - Single,N/A,181000.0,89570.0,2020,7.620890275175654,168
+SURF,ITZY,2020,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,NOT SHY - EP,N/A,193000.0,89510.0,2020,9.114505107116564,169
+Better,Boa,2020,Boa,39872758,670361,"['k-pop', 'j-pop', 'Korean', 'pop', 'japanese']",39872758,BETTER,N/A,199000.0,89003.0,2020,13.276876190589846,170
+Nice to Meet Ya (feat. Nicki Minaj),Meghan Trainor,2020,Meghan Trainor,43835422,2102771,"['pop', 'female vocalists', 'soul', 'american', 'jazz']",43835422,Nice To Meet Ya (feat. Nicki Minaj),N/A,197000.0,86850.0,2020,4.130264303626025,171
+Noise,Nightwish,2020,Nightwish,183475935,1807193,"['symphonic metal', 'Power metal', 'Gothic Metal', 'metal', 'Female fronted metal']",183475935,HUMAN. :II: NATURE.,N/A,340000.0,86823.0,2020,4.804301477484696,172
+We Ride,Brave Girls,2020,Brave Girls,10134097,308933,"['k-pop', 'Korean', 'pop', 'female vocalists', 'Kpop']",10134097,We Ride - Single,N/A,189000.0,86521.0,2020,28.00639620888672,173
+TING TING TING (with Oliver Heldens),ITZY,2020,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,N/A,N/A,219000.0,85006.0,2020,8.655877791705404,174
+Superblood Wolfmoon,Pearl Jam,2020,Pearl Jam,250731278,4319791,"['Grunge', 'rock', 'alternative rock', '90s', 'alternative']",250731278,"Ohana Festival, Dana Point, September 26th 2021",N/A,286000.0,84737.0,2020,1.9615995310884253,175
+Wasted on You,Evanescence,2020,Evanescence,214331242,4440482,"['Gothic Rock', 'rock', 'female vocalists', 'alternative', 'Gothic']",214331242,KuschelRock 35,N/A,254000.0,82987.0,2020,1.8688736943421906,176
+sadder badder cooler,Tove Lo,2020,Tove Lo,122045272,2406366,"['pop', 'swedish', 'electronic', 'female vocalists', 'indie']",122045272,Summer 2020 - Sommarhits,N/A,171000.0,75443.0,2020,3.1351423682016786,177
+Goliath,Woodkid,2020,Woodkid,30434083,1188945,"['indie', 'alternative', 'folk', 'chamber pop', 'pop']",30434083,Goliath - Single,N/A,230000.0,74362.0,2020,6.254452476775629,178
+LALALILALA,April,2020,April,7983388,321878,"['hardcore', 'hardcore punk', 'Straight Edge', 'polish', 'punk']",7983388,Da Capo,N/A,194000.0,74149.0,2020,23.036367816377634,179
+NO LIE,Everglow,2020,Everglow,35914985,641505,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",35914985,reminiscence - EP,N/A,0.0,72094.0,2020,11.2382600291502,180
+the other girl (with Halsey),Kelsea Ballerini,2020,Kelsea Ballerini,15262327,479099,"['country', 'pop', 'singer-songwriter', 'female vocalists', 'country pop']",15262327,N/A,N/A,201000.0,69589.0,2020,14.524972917914669,181
+I'm Coming,Tove Lo,2020,Tove Lo,122045272,2406366,"['pop', 'swedish', 'electronic', 'female vocalists', 'indie']",122045272,Puro Movimiento,N/A,196000.0,66452.0,2020,2.761508432216878,182
+Chew On My Heart,James Bay,2020,James Bay,26126641,1244840,"['folk', 'indie', 'singer-songwriter', 'british', 'indie pop']",26126641,Stimmungsmacher,N/A,195000.0,64245.0,2020,5.160904212589569,183
+Hmph!,WJSN CHOCOME,2020,WJSN CHOCOME,2261007,108848,"['k-pop', 'Kpop', 'Korean', 'pop', 'WJSN']",2261007,Hmph!,N/A,199000.0,61594.0,2020,56.58716742613553,184
+Dangerous Woman,SuperM,2020,SuperM,15835001,394142,"['k-pop', 'Korean', 'pop', 'NCT', 'rnb']",15835001,"Super One [Unit C Ver. - Kai, Ten]",N/A,189000.0,58987.0,2020,14.965925986065937,185
+Games,Neil Frances,2020,Neil Frances,9177512,580739,"['electronic', 'soul', 'indietronica', 'indie', 'indie pop']",9177512,Games - Single,N/A,236000.0,58289.0,2020,10.03703901408378,186
+OOPS!,Loona,2020,Loona,111267797,1134537,"['pop', 'dance', 'k-pop', 'latin', 'female vocalists']",111267797,[12:00],N/A,162000.0,56373.0,2020,4.968811065659383,187
+Checkmate,Lamb of God,2020,Lamb of God,81653109,1448638,"['groove metal', 'metalcore', 'thrash metal', 'metal', 'death metal']",81653109,Lamb of God,N/A,270000.0,55091.0,2020,3.8029514619939557,188
+愛密集,Yakkle,2020,Yakkle,834877,84875,"['jazz rap', 'japanese', 'Hip-Hop']",834877,愛密集 - EP,N/A,204000.0,52220.0,2020,61.52577319587629,189
+Nights,Neon Trees,2020,Neon Trees,34566842,2058212,"['indie', 'alternative', 'indie rock', 'alternative rock', 'pop']",34566842,I Can Feel You Forgetting Me,N/A,215000.0,44737.0,2020,2.1735856170307044,190
+Children of the Next Level,Testament,2020,Testament,35635666,1071480,"['thrash metal', 'heavy metal', 'metal', 'death metal', 'thrash']",35635666,Children of the Next Level,N/A,0.0,39939.0,2020,3.7274610818680705,191
+EYES,IZ*ONE,2020,IZ*ONE,47806048,542797,"['k-pop', 'j-pop', 'Korean', 'Kpop', 'pop']",47806048,N/A,N/A,217000.0,37002.0,2020,6.816913136955437,192
+GxxD BOY,Everglow,2020,Everglow,35914985,641505,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",35914985,-77.82X-78.29,N/A,203000.0,36351.0,2020,5.666518577407814,193
+Cloud 9,CRAVITY,2020,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,HIDEOUT: REMEMBER WHO WE ARE - SEASON1.,N/A,201000.0,26436.0,2020,15.86413826212194,194
+Flame,CRAVITY,2020,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,Season 2. Hideout: The New Day We Step Into,N/A,194000.0,18826.0,2020,11.297407585213634,195
+World On Fire,Daughtry,2020,Daughtry,37150380,1515710,"['rock', 'alternative rock', 'alternative', 'hard rock', 'American Idol']",37150380,World On Fire,N/A,0.0,17601.0,2020,1.1612379676851112,196
+Believer,CRAVITY,2020,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,HIDEOUT: THE NEW DAY WE STEP INTO - SEASON 2.,N/A,213000.0,10841.0,2020,6.505640902544407,197
+Realize,CRAVITY,2020,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,Season 2. Hideout: The New Day We Step Into,N/A,215000.0,10394.0,2020,6.237397983677388,198
+Tonight,Ke$ha,2020,Ke$ha,106811286,2389257,"['pop', 'dance', 'electropop', 'female vocalists', 'electronic']",106811286,Tonight,N/A,195000.0,2005.0,2020,0.08391730148744987,199
+34+35,Ariana Grande,2020,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,N/A,N/A,0.0,985.0,2020,0.0223554978070051,200
+Kiss Me More (feat. SZA),Doja Cat,2021,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,NRJ Music Awards 2021,N/A,208000.0,1854741.0,2021,52.0941837077757,1
+good 4 u,Olivia Rodrigo,2021,Olivia Rodrigo,541878471,3027822,"['pop', 'pop rock', 'rock', 'female vocalists', 'indie pop']",541878471,Best of Today,N/A,178000.0,1763373.0,2021,58.23899159197602,2
+Telepatía,Kali Uchis,2021,Kali Uchis,307120156,3011779,"['rnb', 'Neo-Soul', 'soul', 'alternative rnb', 'pop']",307120156,Best in the World,N/A,160000.0,1611327.0,2021,53.500837876882734,3
+deja vu,Olivia Rodrigo,2021,Olivia Rodrigo,541878471,3027822,"['pop', 'pop rock', 'rock', 'female vocalists', 'indie pop']",541878471,"Now That's What I Call Music, Vol. 79",N/A,215000.0,1585392.0,2021,52.36080588621128,4
+drivers license,Olivia Rodrigo,2021,Olivia Rodrigo,541878471,3027822,"['pop', 'pop rock', 'rock', 'female vocalists', 'indie pop']",541878471,Good Songs,N/A,242000.0,1573513.0,2021,51.968477671408685,5
+Need to Know,Doja Cat,2021,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,Planet Her (Deluxe),N/A,210000.0,1432166.0,2021,40.22530299596024,6
+traitor,Olivia Rodrigo,2021,Olivia Rodrigo,541878471,3027822,"['pop', 'pop rock', 'rock', 'female vocalists', 'indie pop']",541878471,Bored,N/A,229000.0,1430663.0,2021,47.250564927528764,7
+STAY (with Justin Bieber),The Kid LAROI,2021,The Kid LAROI,158884319,2447299,"['Hip-Hop', 'rap', 'emo rap', 'australian', 'trap']",158884319,STAY (with Justin Bieber),N/A,141000.0,1313718.0,2021,53.68032267409908,8
+Leave the Door Open,Bruno Mars,2021,Bruno Mars,287374114,5149729,"['pop', 'rnb', 'male vocalists', 'r&b', 'slow jams']",287374114,Bruno Mars: Live at The Town,N/A,242000.0,1295981.0,2021,25.16600388098092,9
+MONTERO (Call Me by Your Name),Lil Nas X,2021,Lil Nas X,114675990,2616138,"['Hip-Hop', 'rap', 'pop', 'country rap', 'trap']",114675990,"The Dome, Vol. 98",N/A,138000.0,1287475.0,2021,49.21280911022278,10
+family ties (with Kendrick Lamar),Baby Keem,2021,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,N/A,N/A,252000.0,1281622.0,2021,64.49012864090494,11
+INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,2021,Lil Nas X,114675990,2616138,"['Hip-Hop', 'rap', 'pop', 'country rap', 'trap']",114675990,N/A,N/A,212000.0,1274892.0,2021,48.7318329537662,12
+You Right,Doja Cat,2021,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,You Right,N/A,181000.0,1269613.0,2021,35.6596704660005,13
+I Must Apologise,PinkPantheress,2021,PinkPantheress,302010843,2922490,"['electronic', 'pop', '2-step', 'rnb', 'dance-pop']",302010843,to hell with it,N/A,109000.0,1166600.0,2021,39.91801511724591,14
+Easy on Me,Adele,2021,Adele,315075342,5565336,"['soul', 'female vocalists', 'british', 'singer-songwriter', 'indie']",315075342,30,N/A,225000.0,1085333.0,2021,19.50166171458471,15
+Moth to a Flame (with The Weeknd),Swedish House Mafia,2021,Swedish House Mafia,53121052,2682111,"['House', 'electronic', 'dance', 'electro house', 'electro']",53121052,Moth to a Flame,N/A,234000.0,916257.0,2021,34.16178525049858,16
+LUMBERJACK,"Tyler, The Creator",2021,"Tyler, The Creator",1027180546,4255100,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",1027180546,Lumberjack,N/A,138000.0,898623.0,2021,21.118728114497898,17
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,2021,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,NRJ Summer Hits Only 2021,N/A,198000.0,828897.0,2021,17.611020046975636,18
+THATS WHAT I WANT,Lil Nas X,2021,Lil Nas X,114675990,2616138,"['Hip-Hop', 'rap', 'pop', 'country rap', 'trap']",114675990,MuchDance 2022,N/A,144000.0,826282.0,2021,31.584037233509854,19
+Off the Grid,Kanye West,2021,Kanye West,1487947021,7864740,"['Hip-Hop', 'rap', 'hip hop', 'rnb', 'Kanye West']",1487947021,Donda,N/A,339000.0,824150.0,2021,10.479049529927245,20
+Ghost,Justin Bieber,2021,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,Break Up Tunes,N/A,153000.0,811973.0,2021,17.251447140721886,21
+NDA,Billie Eilish,2021,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,NDA,N/A,195000.0,800432.0,2021,19.253122253400793,22
+The Feels,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Formula of Love: O+T=<3,N/A,198000.0,796298.0,2021,42.59410121299618,23
+Your Power,Billie Eilish,2021,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,"Now That's What I Call Music, Vol. 79",N/A,245000.0,791492.0,2021,19.038084732480336,24
+Bad Habits,Ed Sheeran,2021,Ed Sheeran,252630630,4161226,"['acoustic', 'british', 'singer-songwriter', 'pop', 'easy-listening']",252630630,=,N/A,230000.0,735896.0,2021,17.684595837861245,25
+Solar Power,Lorde,2021,Lorde,436545887,3672072,"['pop', 'indie pop', 'electronic', 'indie', 'New Zealand']",436545887,Mood Ring,N/A,215000.0,670402.0,2021,18.25677710023115,26
+Way 2 Sexy (with Future & Young Thug),Drake,2021,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Way 2 Sexy (with Future & Young Thug),N/A,257000.0,668823.0,2021,10.062526037470487,27
+Shivers,Ed Sheeran,2021,Ed Sheeran,252630630,4161226,"['acoustic', 'british', 'singer-songwriter', 'pop', 'easy-listening']",252630630,=,N/A,207000.0,658381.0,2021,15.821803478109576,28
+One Right Now (with The Weeknd),Post Malone,2021,Post Malone,326543547,3483537,"['Hip-Hop', 'rap', 'trap', 'cloud rap', 'pop']",326543547,One Right Now,N/A,192000.0,631440.0,2021,18.126404283921772,29
+Up,Cardi B,2021,Cardi B,76994131,2385192,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'american']",76994131,NRJ Music Awards 2021,N/A,156000.0,621304.0,2021,26.04838520337147,30
+Best Friend (feat. Doja Cat),Saweetie,2021,Saweetie,18663600,1170381,"['Hip-Hop', 'rap', 'better than selena gomez', 'urban', 'female rapper']",18663600,Best Friend (feat. Doja Cat & Katja Krasavice) [Remix],N/A,155000.0,602290.0,2021,51.461019958457975,31
+Savage,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Savage,N/A,296000.0,539835.0,2021,41.64750810060176,32
+Astronaut in the Ocean,Masked Wolf,2021,Masked Wolf,6995691,657164,"['Hip-Hop', 'rap', 'australian', 'hip hop', 'australia']",6995691,"Now That's What I Call Music, Vol. 79",N/A,132000.0,529384.0,2021,80.55584298592132,33
+RAPSTAR,Polo G,2021,Polo G,104151932,1198039,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",104151932,"The Dome, Vol. 98",N/A,165000.0,525571.0,2021,43.86927303702134,34
+24,Kanye West,2021,Kanye West,1487947021,7864740,"['Hip-Hop', 'rap', 'hip hop', 'rnb', 'Kanye West']",1487947021,Donda,N/A,216000.0,498997.0,2021,6.3447361260512105,35
+ELEVEN,IVE,2021,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,ELEVEN - Single,N/A,178000.0,486924.0,2021,47.46231907649449,36
+We're Good,Dua Lipa,2021,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,MegaHits: Sommer 2021,N/A,165000.0,479658.0,2021,14.876658999724585,37
+Hold On,Justin Bieber,2021,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,Random Songs,N/A,170000.0,477265.0,2021,10.140130176270185,38
+Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton,2021,Riton,10338979,995851,"['electronic', 'electro', 'techno', 'House', 'Electroclash']",10338979,N/A,N/A,0.0,442564.0,2021,44.440784816202424,39
+Mood Ring,Lorde,2021,Lorde,436545887,3672072,"['pop', 'indie pop', 'electronic', 'indie', 'New Zealand']",436545887,Christmas + Chill,N/A,241000.0,420025.0,2021,11.438365042951228,40
+What’s Next,Drake,2021,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,N/A,N/A,0.0,402094.0,2021,6.04955473198538,41
+Build A Bitch,Bella Poarch,2021,Bella Poarch,6519957,565828,"['pop', 'dark pop', 'tiktok', 'female vocalists', 'american']",6519957,Build a Bitch,N/A,122000.0,394145.0,2021,69.65809397908906,42
+Blue Banisters,Lana Del Rey,2021,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Blue Banisters,N/A,292000.0,389525.0,2021,7.519186690484584,43
+Higher Power,Coldplay,2021,Coldplay,772721635,9019488,"['rock', 'alternative', 'britpop', 'alternative rock', 'indie']",772721635,Higher Power (Alyx Ander Remix) - Single,N/A,207000.0,371873.0,2021,4.122994564658216,44
+Sweet Carolina,Lana Del Rey,2021,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Blue Banisters,N/A,204000.0,370318.0,2021,7.148424817012694,45
+Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,2021,Maroon 5,281970159,6564586,"['pop rock', 'rock', 'pop', 'alternative', 'alternative rock']",281970159,N/A,N/A,196000.0,359060.0,2021,5.469651856187123,46
+Queendom,Red Velvet,2021,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,Queendom - The 6th Mini Album - EP,N/A,181000.0,357998.0,2021,26.157704071418237,47
+Queens Highway,Menahan Street Band,2021,Menahan Street Band,7570705,608427,"['funk', 'soul', 'jazz', 'jazz fusion', 'afrobeat']",7570705,The Exciting Sounds of Menahan Street Band,N/A,67000.0,351721.0,2021,57.808249798250245,48
+Skin,Sabrina Carpenter,2021,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Best of Today,N/A,177000.0,342569.0,2021,10.798764807089372,49
+Get Along Better,Drake,2021,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,N/A,N/A,229000.0,337117.0,2021,5.071967606039173,50
+Don't Go Yet,Camila Cabello,2021,Camila Cabello,127125500,2365581,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",127125500,Don't Go Yet,N/A,163000.0,332999.0,2021,14.076837783191529,51
+Doughnut,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Doughnut,N/A,263000.0,332333.0,2021,17.776542749597084,52
+Wildflower Wildfire,Lana Del Rey,2021,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Wildflower Wildfire - Single,N/A,286000.0,330092.0,2021,6.371923170619183,53
+Dreams Come True,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Dreams Come True,N/A,221000.0,311918.0,2021,24.064033328190092,54
+PTT (Paint the Town),Loona,2021,Loona,111267797,1134537,"['pop', 'dance', 'k-pop', 'latin', 'female vocalists']",111267797,PTT (Paint The Town),N/A,254000.0,311376.0,2021,27.445204519552913,55
+Run,OneRepublic,2021,OneRepublic,134022465,4277682,"['pop rock', 'rock', 'alternative', 'alternative rock', 'indie']",134022465,Run,N/A,167000.0,309980.0,2021,7.246447959432234,56
+Nineteen,PinkPantheress,2021,PinkPantheress,302010843,2922490,"['electronic', 'pop', '2-step', 'rnb', 'dance-pop']",302010843,to hell with it,N/A,0.0,301720.0,2021,10.324072965176956,57
+Perfect World,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Perfect World,N/A,182000.0,296721.0,2021,15.87165144960987,58
+Anyone,Justin Bieber,2021,Justin Bieber,312898754,4706695,"['pop', 'black metal', 'rnb', 'justin bieber', 'Hip-Hop']",312898754,Good Songs,N/A,190000.0,295753.0,2021,6.283666139403551,59
+aenergy,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Savage - The 1st Mini Album,N/A,225000.0,285264.0,2021,22.007714858818083,60
+Follow You,Imagine Dragons,2021,Imagine Dragons,248712871,4021563,"['indie', 'indie rock', 'alternative', 'rock', 'indie pop']",248712871,"Now That's What I Call Music, Vol. 79",N/A,173000.0,278462.0,2021,6.924223243549833,61
+Hot Sauce,NCT DREAM,2021,NCT DREAM,113091553,673600,"['k-pop', 'Korean', 'NCT', 'pop', 'nct dream']",113091553,Hello Future - The 1st Album Repackage,N/A,195000.0,273384.0,2021,40.58551068883611,62
+MAGIC,TOMORROW X TOGETHER,2021,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Chaos Chapter: FREEZE,N/A,159000.0,257867.0,2021,21.453625452796814,63
+Wrecked,Imagine Dragons,2021,Imagine Dragons,248712871,4021563,"['indie', 'indie rock', 'alternative', 'rock', 'indie pop']",248712871,HOT PARTY BACK2SKOOL 2021,N/A,244000.0,254358.0,2021,6.324854291726874,64
+Advice,TAEMIN,2021,TAEMIN,50869787,613974,"['k-pop', 'Korean', '태민', 'pop', 'Kpop']",50869787,Advice,N/A,191000.0,248566.0,2021,40.48477622830934,65
+Summer of Love (Shawn Mendes & Tainy),Shawn Mendes,2021,Shawn Mendes,139015463,2672470,"['pop', 'Canadian', 'folk', 'male vocalists', 'acoustic']",139015463,N/A,N/A,0.0,241122.0,2021,9.022439915134688,66
+ICONIC,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Savage - The 1st Mini Album - EP,N/A,191000.0,225289.0,2021,17.38072828267243,67
+Coconuts,Kim Petras,2021,Kim Petras,92778841,1194479,"['pop', 'german', 'electropop', 'female vocalists', 'electronic']",92778841,Coconuts - Single,N/A,168000.0,221346.0,2021,18.53075692414852,68
+Overpass Graffiti,Ed Sheeran,2021,Ed Sheeran,252630630,4161226,"['acoustic', 'british', 'singer-songwriter', 'pop', 'easy-listening']",252630630,=,N/A,236000.0,214256.0,2021,5.148867184815244,69
+TAIL,SUNMI,2021,SUNMI,34616705,680819,"['k-pop', 'Korean', 'pop', 'Kpop', 'female vocalists']",34616705,TAIL - Single,N/A,190000.0,213107.0,2021,31.301564733064147,70
+YEPPI YEPPI,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Savage - The 1st Mini Album,N/A,215000.0,213022.0,2021,16.43434655145811,71
+Don't Call Me,SHINee,2021,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,Don't Call Me - The 7th Album,N/A,220000.0,193055.0,2021,23.182271215341572,72
+I'll Make You Cry,aespa,2021,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Savage - The 1st Mini Album - EP,N/A,212000.0,187927.0,2021,14.498302731060022,73
+I Still Have Faith in You,ABBA,2021,ABBA,187246764,4330377,"['pop', 'Disco', '70s', 'swedish', '80s']",187246764,Voyage,N/A,309000.0,182648.0,2021,4.217831380501051,74
+Kura Kura,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Perfect World,N/A,227000.0,176569.0,2021,9.444702683012544,75
+Lost,Maroon 5,2021,Maroon 5,281970159,6564586,"['pop rock', 'rock', 'pop', 'alternative', 'alternative rock']",281970159,Best of Today,N/A,172000.0,175427.0,2021,2.67232389064596,76
+"Attention, please!",ENHYPEN,2021,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,DIMENSION: DILEMMA,N/A,0.0,157732.0,2021,14.295761627337885,77
+Baby Blue Love,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,N/A,N/A,0.0,147937.0,2021,7.913172645350127,78
+BEcause,Dreamcatcher,2021,Dreamcatcher,79061004,557395,"['k-pop', 'rock', 'Korean', 'k-rock', 'Kpop']",79061004,[Summer Holiday] - EP,N/A,193000.0,144741.0,2021,25.967401932202478,79
+First Time,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,N/A,N/A,0.0,139254.0,2021,7.44871765383634,80
+The Writing on the Wall,Iron Maiden,2021,Iron Maiden,265335399,3182491,"['heavy metal', 'metal', 'NWOBHM', 'hard rock', 'rock']",265335399,Senjutsu,N/A,373000.0,121924.0,2021,3.8310870321392896,81
+Beautiful James,Placebo,2021,Placebo,270795868,3400633,"['alternative rock', 'alternative', 'rock', 'indie', 'britpop']",270795868,Never Let Me Go,N/A,248000.0,105368.0,2021,3.0984819590940864,82
+Secret Secret,Stray Kids,2021,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,NOEASY,N/A,209000.0,104753.0,2021,7.909014583880719,83
+A Lua,Pabllo Vittar,2021,Pabllo Vittar,98810561,613161,"['pop', 'drag queen', 'brazilian', 'tecnobrega', 'drag']",98810561,Batidão Tropical,N/A,155000.0,104131.0,2021,16.982652190860147,84
+Body Rhythm,SHINee,2021,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,Don't Call Me,N/A,192000.0,101599.0,2021,12.200127286045365,85
+RING X RING,Billlie,2021,Billlie,23632790,318912,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",23632790,the Billage of perception : chapter one,N/A,200000.0,94882.0,2021,29.751781055589007,86
+Easy,WJSN THE BLACK,2021,WJSN THE BLACK,1719431,88810,"['k-pop', 'WJSN', 'pop', 'Kpop', 'sub-unit']",1719431,My Attitude - Single,N/A,188000.0,84932.0,2021,95.63337461997523,87
+Stratego,Iron Maiden,2021,Iron Maiden,265335399,3182491,"['heavy metal', 'metal', 'NWOBHM', 'hard rock', 'rock']",265335399,Senjutsu,N/A,300000.0,84355.0,2021,2.6505966552615545,88
+Ponzona,PURPLE KISS,2021,PURPLE KISS,18983073,271016,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",18983073,Into Violet,N/A,191000.0,82755.0,2021,30.535097558815714,89
+Good at Love,TWICE,2021,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Perfect World,N/A,231000.0,78897.0,2021,4.220212537770734,90
+Hot n Heavy,Jessie Ware,2021,Jessie Ware,54442764,1135612,"['soul', 'pop', 'electronic', 'female vocalists', 'chillout']",54442764,Hot N Heavy,N/A,215000.0,78091.0,2021,6.876556429484719,91
+One Day,MONSTA X,2021,MONSTA X,65954162,558912,"['k-pop', 'Korean', 'Kpop', 'Hip-Hop', 'best of 2017']",65954162,One Day - Single,N/A,144000.0,71455.0,2021,12.784660196954082,92
+HAPPEN,Heize,2021,Heize,20042002,491129,"['rnb', 'k-pop', 'Hip-Hop', 'soul', 'Korean']",20042002,HAPPEN,N/A,193000.0,68109.0,2021,13.867843275392005,93
+Atlantis,SHINee,2021,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,Atlantis - The 7th Album Repackage,N/A,179000.0,67409.0,2021,8.094551917095957,94
+Up,Inna,2021,Inna,22424333,1075211,"['dance', 'House', 'electronic', 'trance', 'Romanian']",22424333,Up,N/A,120000.0,67293.0,2021,6.2585855241436334,95
+Kiss Kiss,SHINee,2021,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,Don't Call Me - The 7th Album,N/A,215000.0,54414.0,2021,6.534097049605533,96
+Talk About Love (feat. Young Thug),Zara Larsson,2021,Zara Larsson,77760970,2185312,"['pop', 'swedish', 'female vocalists', 'indie', 'Sweden']",77760970,Poster Girl (Summer Edition),N/A,199000.0,48462.0,2021,2.2176238450161807,97
+Back From the Dead,Halestorm,2021,Halestorm,31511674,799695,"['hard rock', 'female vocalists', 'rock', 'alternative rock', 'alternative metal']",31511674,Back from the Dead,N/A,209000.0,46963.0,2021,5.872613934062361,98
+CØDE,SHINee,2021,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,Atlantis - The 7th Album Repackage,N/A,194000.0,42597.0,2021,5.1150978061169345,99
+My Turn,CRAVITY,2021,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,HIDEOUT: BE OUR VOICE - SEASON 3.,N/A,213000.0,39760.0,2021,23.85981757081133,100
+As It Was,Harry Styles,2022,Harry Styles,403975946,3197410,"['pop', 'rock', 'pop rock', 'alternative', 'british']",403975946,Harry’s House,N/A,165000.0,1965619.0,2022,61.475350361699,1
+Bad Habit,Steve Lacy,2022,Steve Lacy,281894231,3062192,"['free jazz', 'jazz', 'saxophone', 'rnb', 'Avant-Garde Jazz']",281894231,Gemini Rights,N/A,232000.0,1861979.0,2022,60.80542957463151,2
+Glimpse of Us,Joji,2022,Joji,361580479,2956634,"['Lo-Fi', 'rnb', 'Hip-Hop', 'alternative rnb', 'japanese']",361580479,Glimpse of Us,N/A,229000.0,1471861.0,2022,49.78164358523916,3
+Nonsense,Sabrina Carpenter,2022,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,emails i can't send [Clean],N/A,163000.0,1425247.0,2022,44.927903998930745,4
+N95,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,Mr. Morale & the Big Steppers,N/A,195000.0,1232393.0,2022,24.531092002070146,5
+Low,SZA,2022,SZA,575399022,3438127,"['rnb', 'soul', 'alternative rnb', 'electronic', 'Neo-Soul']",575399022,SOS,N/A,181000.0,1124070.0,2022,32.69425474975183,6
+Open Arms (feat. Travis Scott),SZA,2022,SZA,575399022,3438127,"['rnb', 'soul', 'alternative rnb', 'electronic', 'Neo-Soul']",575399022,SOS,N/A,239000.0,1056189.0,2022,30.719894872993347,7
+Late Night Talking,Harry Styles,2022,Harry Styles,403975946,3197410,"['pop', 'rock', 'pop rock', 'alternative', 'british']",403975946,Harry’s House,N/A,177000.0,1054788.0,2022,32.988825330501875,8
+Die Hard,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,Mr. Morale & the Big Steppers,N/A,239000.0,1029030.0,2022,20.483100441896575,9
+Jimmy Cooks (feat. 21 Savage),Drake,2022,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,"Honestly, Nevermind",N/A,218000.0,1021068.0,2022,15.362096303548048,10
+WAIT FOR U (feat. Drake & Tems),Future,2022,Future,449794315,3171840,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'atlanta']",449794315,I NEVER LIKED YOU,N/A,189000.0,903085.0,2022,28.47195949354318,11
+Bejeweled,Taylor Swift,2022,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,Midnights [Clean],N/A,194000.0,877064.0,2022,14.957995317823974,12
+ANTIFRAGILE,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,ANTIFRAGILE,N/A,184000.0,872570.0,2022,53.965846843297605,13
+Attention,NewJeans,2022,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,New Jeans,N/A,180000.0,862979.0,2022,48.76956976054858,14
+Sacrifice,The Weeknd,2022,The Weeknd,1095012174,5233527,"['rnb', 'electronic', 'dubstep', 'Canadian', 'prog-rnb']",1095012174,Dawn FM,N/A,245000.0,823005.0,2022,15.725628242674587,15
+Super Freaky Girl,Nicki Minaj,2022,Nicki Minaj,304255046,4699361,"['Hip-Hop', 'rap', 'rnb', 'pop', 'hip hop']",304255046,Super Freaky Girl,N/A,170000.0,812161.0,2022,17.282370943624038,16
+A New Kind Of Love - Demo,Frou Frou,2022,Frou Frou,37560725,2065719,"['electronic', 'female vocalists', 'indie', 'alternative', 'electronica']",37560725,A New Kind of Love (demo),N/A,260000.0,798529.0,2022,38.6562257499689,17
+I'm Good (Blue),David Guetta,2022,David Guetta,185161947,5160920,"['House', 'dance', 'electronic', 'club', 'techno']",185161947,I'm Good (Blue),N/A,175000.0,792166.0,2022,15.349317563535184,18
+Boyfriend,Dove Cameron,2022,Dove Cameron,29458598,1262273,"['pop', 'Disney', 'female vocalists', 'american', 'my top songs']",29458598,Boyfriend,N/A,153000.0,779364.0,2022,61.74290347650627,19
+I Like You (A Happier Song) (with Doja Cat),Post Malone,2022,Post Malone,326543547,3483537,"['Hip-Hop', 'rap', 'trap', 'cloud rap', 'pop']",326543547,Twelve Carat Toothache,N/A,192000.0,748338.0,2022,21.482131523219074,20
+Music for a Sushi Restaurant,Harry Styles,2022,Harry Styles,403975946,3197410,"['pop', 'rock', 'pop rock', 'alternative', 'british']",403975946,Harry’s House,N/A,193000.0,736671.0,2022,23.039616439555765,21
+BREAK MY SOUL,Beyoncé,2022,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,BREAK MY SOUL,N/A,277000.0,734204.0,2022,11.612910981242926,22
+First Class,Jack Harlow,2022,Jack Harlow,76846451,1821134,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'pop rap']",76846451,First Class,N/A,173000.0,719512.0,2022,39.50900922172668,23
+Silent Hill,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,Mr. Morale & the Big Steppers,N/A,220000.0,697236.0,2022,13.878657589872208,24
+PUFFIN ON ZOOTIEZ,Future,2022,Future,449794315,3171840,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'atlanta']",449794315,I NEVER LIKED YOU,N/A,172000.0,678401.0,2022,21.38824783091203,25
+Sweetest Pie,Megan Thee Stallion,2022,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,Sweetest Pie,N/A,201000.0,659762.0,2022,28.95833104728714,26
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,2022,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,Vegas (From the Original Motion Picture Soundtrack ELVIS),N/A,183000.0,652556.0,2022,18.328366140399808,27
+We Cry Together,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,Mr. Morale & the Big Steppers,N/A,341000.0,642365.0,2022,12.786436561965047,28
+Simulation Swarm,Big Thief,2022,Big Thief,117556612,1625085,"['indie rock', 'indie folk', 'folk', 'folk rock', 'indie']",117556612,Dragon New Warm Mountain I Believe in You,N/A,252000.0,638181.0,2022,39.27062276742447,29
+Calm Down (with Selena Gomez),Rema,2022,Rema,20238547,961195,"['afrobeats', 'trap', 'nigerian', 'pop', 'afropop']",20238547,Calm Down (with Selena Gomez),N/A,239000.0,629972.0,2022,65.54049906626646,30
+Left and Right (feat. Jung Kook of BTS),Charlie Puth,2022,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,Left and Right (feat. Jung Kook of BTS),N/A,154000.0,622665.0,2022,25.828351890943225,31
+LOVE DIVE,IVE,2022,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,LOVE DIVE,N/A,177000.0,597311.0,2022,58.22215637327386,32
+The Heart Part 5,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,The Heart Part 5,N/A,332000.0,584759.0,2022,11.639774672558621,33
+Easier Said Than Done,Thee Sacred Souls,2022,Thee Sacred Souls,28152730,1162267,"['soul', 'funk', 'rnb', 'United States', 'USA']",28152730,Thee Sacred Souls,N/A,171000.0,561042.0,2022,48.271352451717206,34
+Sunny day,beabadoobee,2022,beabadoobee,309200514,2554484,"['indie pop', 'indie rock', 'indie', 'bedroom pop', 'dream pop']",309200514,Beatopia,N/A,160000.0,551501.0,2022,21.589526495370492,35
+Sour Grapes,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,FEARLESS,N/A,196000.0,541915.0,2022,33.51582324866271,36
+Mr. Morale,Kendrick Lamar,2022,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,Mr. Morale & the Big Steppers,N/A,210000.0,541264.0,2022,10.773995780086787,37
+Talk that Talk,TWICE,2022,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,BETWEEN 1&2,N/A,178000.0,538365.0,2022,28.797225786746534,38
+Beg for You (feat. Rina Sawayama),Charli xcx,2022,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama],N/A,168000.0,519320.0,2022,14.017922166682952,39
+Impurities,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,ANTIFRAGILE,N/A,196000.0,508946.0,2022,31.476789125811045,40
+FEARLESS,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,FEARLESS,N/A,168000.0,506390.0,2022,31.318708164362143,41
+Light Switch,Charlie Puth,2022,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,Light Switch,N/A,186000.0,497352.0,2022,20.63032685258429,42
+Fast Times,Sabrina Carpenter,2022,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Fast Times - Single,N/A,174000.0,496675.0,2022,15.656631249649308,43
+Love Me More,Mitski,2022,Mitski,643218175,3201407,"['indie rock', 'indie', 'indie pop', 'singer-songwriter', 'dream pop']",643218175,Laurel Hell,N/A,212000.0,467354.0,2022,14.598393768739806,44
+Made You Look,Meghan Trainor,2022,Meghan Trainor,43835422,2102771,"['pop', 'female vocalists', 'soul', 'american', 'jazz']",43835422,TAKIN’ IT BACK,N/A,134000.0,465412.0,2022,22.133270812656253,45
+Umbrella (with 21 Savage & Young Nudy),Metro Boomin,2022,Metro Boomin,239901919,2441400,"['trap', 'rap', 'Hip-Hop', 'hip hop', 'Southern Hip Hop']",239901919,HEROES & VILLAINS,N/A,222000.0,455888.0,2022,18.673220283443925,46
+highway 95,Baby Keem,2022,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,The Melodic Blue (Deluxe),N/A,91000.0,427192.0,2022,21.49593798668052,47
+Pass the Nirvana,Pierce the Veil,2022,Pierce the Veil,258363509,2041985,"['post-hardcore', 'emocore', 'experimental', 'emo', 'post hardcore']",258363509,Pass The Nirvana,N/A,197000.0,422853.0,2022,20.707938598961302,48
+Illusion,aespa,2022,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Illusion,N/A,203000.0,410627.0,2022,31.67929331893226,49
+Bam Bam (feat. Ed Sheeran),Camila Cabello,2022,Camila Cabello,127125500,2365581,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",127125500,Bam Bam (feat. Ed Sheeran),N/A,206000.0,409243.0,2022,17.299893768169426,50
+Party,Bad Bunny,2022,Bad Bunny,382878834,2475994,"['Reggaeton', 'trap', 'latin', 'puerto rico', 'trap latino']",382878834,Un Verano Sin Ti,N/A,227000.0,386188.0,2022,15.597291431239332,51
+Used to Know Me,Charli xcx,2022,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,CRASH [Explicit],N/A,144000.0,383318.0,2022,10.346841810614988,52
+Blue Flame,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,FEARLESS,N/A,201000.0,382979.0,2022,23.686106625484804,53
+Feel My Rhythm,Red Velvet,2022,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,The ReVe Festival 2022 – Feel My Rhythm,N/A,210000.0,377412.0,2022,27.576219445365897,54
+SUPERMODEL,Måneskin,2022,Måneskin,99831475,1838916,"['rock', 'glam rock', 'italian', 'alternative rock', 'Italy']",99831475,SUPERMODEL,N/A,148000.0,374395.0,2022,20.35954877764944,55
+Pictures of You,Drugdealer,2022,Drugdealer,8407177,633125,"['indie rock', 'Psychedelic Rock', 'psychedelic', 'USA', 'indie']",8407177,Pictures of You - Single,N/A,189000.0,372694.0,2022,58.8657847976308,56
+Bad Decisions (with BTS & Snoop Dogg),benny blanco,2022,benny blanco,40649571,1425901,"['pop', 'hip hop', 'electronic', 'Hip-Hop', 'american']",40649571,Bad Decisions (with BTS & Snoop Dogg),N/A,172000.0,331639.0,2022,23.25820656553295,57
+2 Be Loved (Am I Ready),Lizzo,2022,Lizzo,55680048,1729503,"['pop', 'Hip-Hop', 'rnb', 'hip hop', 'rap']",55680048,Special,N/A,187000.0,315508.0,2022,18.242697468579124,58
+Good Parts (when the quality is bad but I am),LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,ANTIFRAGILE,N/A,156000.0,308879.0,2022,19.10324307174315,59
+Potion (with Dua Lipa & Young Thug),Calvin Harris,2022,Calvin Harris,203633856,4941812,"['electronic', 'dance', 'electro', 'Disco', 'electronica']",203633856,Potion (with Dua Lipa & Young Thug),N/A,215000.0,308615.0,2022,6.244976538969917,60
+= (Equal Sign),j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,114000.0,300809.0,2022,29.585607347397225,61
+Still Life (with Anderson .Paak),RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,175000.0,293887.0,2022,38.02290272873942,62
+INVU,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,204000.0,290879.0,2022,45.49078545691122,63
+Future Lover,Thee Sacred Souls,2022,Thee Sacred Souls,28152730,1162267,"['soul', 'funk', 'rnb', 'United States', 'USA']",28152730,Thee Sacred Souls,N/A,211000.0,287602.0,2022,24.74491661554531,64
+Black Summer,Red Hot Chili Peppers,2022,Red Hot Chili Peppers,552392959,7187992,"['rock', 'alternative rock', 'Funk Rock', 'alternative', 'funk']",552392959,Black Summer,N/A,233000.0,286952.0,2022,3.9921023840872385,65
+Blessed-Cursed,ENHYPEN,2022,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,DIMENSION : ANSWER,N/A,0.0,277974.0,2022,25.19368322596316,66
+The Joker and the Queen (feat. Taylor Swift),Ed Sheeran,2022,Ed Sheeran,252630630,4161226,"['acoustic', 'british', 'singer-songwriter', 'pop', 'easy-listening']",252630630,The Joker And The Queen (feat. Taylor Swift) - Single,N/A,185000.0,276813.0,2022,6.652198174288058,67
+Cheshire,ITZY,2022,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,CHESHIRE,N/A,182000.0,275030.0,2022,28.005388667302743,68
+Hold My Hand,Lady Gaga,2022,Lady Gaga,1011759640,7632370,"['pop', 'dance', 'electronic', 'female vocalists', 'female vocalist']",1011759640,Hold My Hand,N/A,225000.0,272762.0,2022,3.5737523207077224,69
+Lonely,RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,166000.0,269423.0,2022,34.85776683516168,70
+Words (feat. Zara Larsson),Alesso,2022,Alesso,23215971,1427618,"['House', 'electronic', 'Progressive House', 'swedish', 'dance']",23215971,Words (feat. Zara Larsson),N/A,142000.0,258172.0,2022,18.08410933456989,71
+"Closer (with Paul Blanco, Mahalia)",RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,196000.0,257987.0,2022,33.37818483389635,72
+When You're Gone,Shawn Mendes,2022,Shawn Mendes,139015463,2672470,"['pop', 'Canadian', 'folk', 'male vocalists', 'acoustic']",139015463,When You're Gone,N/A,172000.0,257607.0,2022,9.639285006005679,73
+No Celestial,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,ANTIFRAGILE,N/A,166000.0,252175.0,2022,15.596270130429163,74
+No One Dies from Love,Tove Lo,2022,Tove Lo,122045272,2406366,"['pop', 'swedish', 'electronic', 'female vocalists', 'indie']",122045272,No One Dies from Love,N/A,186000.0,251752.0,2022,10.461916433327266,75
+Change pt.2,RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,114000.0,249222.0,2022,32.24417501918049,76
+The Great Mermaid,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,FEARLESS,N/A,177000.0,247235.0,2022,15.290745893513053,77
+DM,fromis_9,2022,fromis_9,51801034,566095,"['k-pop', 'Korean', 'pop', 'girl group', 'Kpop']",51801034,Midnight Guest - EP,N/A,204000.0,245376.0,2022,43.34537489290667,78
+10 Things I Hate About You,Leah Kate,2022,Leah Kate,6093745,391496,"['pop', 'dance', 'my top songs', 'pop rock', 'deezer']",6093745,10 Things I Hate About You - Single,N/A,157000.0,244920.0,2022,62.560026156078216,79
+Rush Hour (Feat. j-hope of BTS),Crush,2022,Crush,24144223,603482,"['rnb', 'heavy metal', 'Korean', 'pop', 'k-rnb']",24144223,Rush Hour - Single,N/A,177000.0,244231.0,2022,40.47030400243918,80
+Calm Down,Rema,2022,Rema,20238547,961195,"['afrobeats', 'trap', 'nigerian', 'pop', 'afropop']",20238547,Calm Down,N/A,219000.0,239079.0,2022,24.873100671559882,81
+Pandora's Box,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,156000.0,238535.0,2022,23.460743689887593,82
+Part of the Band,The 1975,2022,The 1975,295987777,2613156,"['indie', 'indie rock', 'british', 'alternative', 'rock']",295987777,Part of the Band,N/A,260000.0,237551.0,2022,9.090578595384278,83
+Spillways,Ghost,2022,Ghost,155218523,1615258,"['heavy metal', 'Psychedelic Rock', 'doom metal', 'psychedelic', 'Progressive rock']",155218523,IMPERA [Explicit],N/A,193000.0,235690.0,2022,14.591477027199371,84
+SNEAKERS,ITZY,2022,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,CHECKMATE,N/A,180000.0,235683.0,2022,23.9988147375774,85
+All Day (with Tablo),RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,186000.0,233400.0,2022,30.19713528290731,86
+naked freestyle,Baby Keem,2022,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,The Melodic Blue (Deluxe),N/A,108000.0,231233.0,2022,11.635447827848127,87
+Snow Globes,"Black Country, New Road",2022,"Black Country, New Road",67636463,770664,"['post-punk', 'post-rock', 'Crank wave', 'indie rock', 'art rock']",67636463,Ants From Up There,N/A,553000.0,231131.0,2022,29.991150488409996,88
+Future,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,139000.0,229831.0,2022,22.604675133588593,89
+Safety Zone,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,165000.0,229456.0,2022,22.567792584345472,90
+YOUNG LUV,STAYC,2022,STAYC,86051423,733936,[],86051423,YOUNG-LUV.COM,N/A,206000.0,226532.0,2022,30.865361557411003,91
+STOP,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,122000.0,224634.0,2022,22.093532177811262,92
+What if…,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,136000.0,223608.0,2022,21.992621523082082,93
+Hectic (with Colde),RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,226000.0,219974.0,2022,28.46008841783313,94
+No.2 (with parkjiyoon),RM,2022,RM,520384986,772921,"['k-pop', 'rap', 'bts', 'Hip-Hop', 'Korean']",520384986,Indigo,N/A,193000.0,218194.0,2022,28.22979321301918,95
+Intro,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,777,N/A,58000.0,213459.0,2022,20.99443221036626,96
+Candy,NCT DREAM,2022,NCT DREAM,113091553,673600,"['k-pop', 'Korean', 'NCT', 'pop', 'nct dream']",113091553,Candy,N/A,217000.0,213334.0,2022,31.67072446555819,97
+MASCARA,XG,2022,XG,61346855,801381,"['pop', 'japanese', 'rnb', 'k-pop', 'j-pop']",61346855,MASCARA,N/A,191000.0,212651.0,2022,26.535567975781802,98
+Music Box : Reflection,j-hope,2022,j-hope,747250978,1016741,"['k-pop', 'Hip-Hop', 'Korean', 'rap', 'bts']",747250978,Jack In The Box,N/A,70000.0,208576.0,2022,20.5141722424885,99
+Wasted on You,Morgan Wallen,2022,Morgan Wallen,87700334,962514,"['country', 'country pop', 'contemporary country', 'the voice', 'bro-country']",87700334,Dangerous: The Double Album,N/A,174000.0,203470.0,2022,21.139432777081684,100
+killstreaks (with Don Toliver & PinkPantheress),Baby Keem,2022,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,very cool music listen to this please,N/A,0.0,201436.0,2022,10.136088139021746,101
+Masterpiece,Motionless in White,2022,Motionless in White,58982514,882818,"['metalcore', 'post-hardcore', 'screamo', 'hardcore', 'metal']",58982514,Scoring the End of the World,N/A,206000.0,201152.0,2022,22.78521733811499,102
+That's Hilarious,Charlie Puth,2022,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,That’s Hilarious,N/A,146000.0,200642.0,2022,8.322697084471796,103
+VENOM,Stray Kids,2022,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,ODDINARY,N/A,194000.0,193593.0,2022,14.616572893733068,104
+Ballroom Extravaganza,DPR IAN,2022,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,Moodswings In To Order,N/A,189000.0,188663.0,2022,29.634173159085197,105
+psychofreak (feat. WILLOW),Camila Cabello,2022,Camila Cabello,127125500,2365581,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",127125500,Familia,N/A,201000.0,187801.0,2022,7.938895349599105,106
+Birthday,Red Velvet,2022,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,‘The ReVe Festival 2022 - Birthday’,N/A,216000.0,184101.0,2022,13.451637934435858,107
+GingaMingaYo (the strange world),Billlie,2022,Billlie,23632790,318912,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",23632790,the collective soul and unconscious: chapter one,N/A,215000.0,173561.0,2022,54.422850190648205,108
+Queen of Hearts,TWICE,2022,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,BETWEEN 1&2,N/A,186000.0,173454.0,2022,9.278080858923468,109
+Bad Omens,5 Seconds of Summer,2022,5 Seconds of Summer,205097709,2228692,"['pop punk', 'pop rock', 'pop', 'australian', 'rock']",205097709,5SOS5,N/A,290000.0,171900.0,2022,7.713044242990956,110
+Fire in the Hole,Earl Sweatshirt,2022,Earl Sweatshirt,150756704,1561664,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",150756704,Sick!,N/A,217000.0,171195.0,2022,10.962345293225688,111
+"TASTE (Lee Know, Hyunjin, Felix)",Stray Kids,2022,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,MAXIDENT,N/A,216000.0,169023.0,2022,12.76149964212262,112
+Lye,Earl Sweatshirt,2022,Earl Sweatshirt,150756704,1561664,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",150756704,Sick!,N/A,112000.0,167359.0,2022,10.716709868448014,113
+Black Mascara.,RAYE,2022,RAYE,55543998,1797157,"['pop', 'rnb', 'british', 'female vocalists', 'my top songs']",55543998,Black Mascara.,N/A,239000.0,167156.0,2022,9.301135070558665,114
+Leader of the Pack,Wunderhorse,2022,Wunderhorse,13359163,363607,"['indie rock', 'alternative rock', 'indie', 'Grunge', 'post-punk']",13359163,Cub,N/A,183000.0,162655.0,2022,44.73373724928288,115
+Love It When You Hate Me (feat. blackbear),Avril Lavigne,2022,Avril Lavigne,263726784,5073928,"['pop rock', 'pop', 'rock', 'female vocalists', 'Canadian']",263726784,Love It When You Hate Me (feat. blackbear) - Single,N/A,145000.0,156004.0,2022,3.0746199000064642,116
+Cyberpunk,ATEEZ,2022,ATEEZ,210298311,789322,"['k-pop', 'Korean', 'Kpop', 'pop', 'boy group']",210298311,THE WORLD EP.1 : MOVEMENT,N/A,198000.0,151425.0,2022,19.1841859215884,117
+bank account (with Lil Uzi Vert),Baby Keem,2022,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,N/A,N/A,214000.0,144793.0,2022,7.285860570669471,118
+Mood,DPR IAN,2022,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,Moodswings In To Order,N/A,182000.0,144737.0,2022,22.734512440311637,119
+The World Is My Oyster,LE SSERAFIM,2022,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,FEARLESS,N/A,106000.0,142803.0,2022,8.831938786301876,120
+Brave,TWICE,2022,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,BETWEEN 1&2,N/A,189000.0,137394.0,2022,7.349225970752654,121
+Love Me More,Sam Smith,2022,Sam Smith,111853937,3049190,"['soul', 'pop', 'british', 'electronic', 'dance']",111853937,Love Me More,N/A,189000.0,136199.0,2022,4.4667272291985745,122
+SUNSET,NAYEON,2022,NAYEON,39519678,765029,"['k-pop', 'pop', 'twice', 'female vocalists', 'Korean']",39519678,IM NAYEON,N/A,193000.0,134624.0,2022,17.597241411763477,123
+Compliance,Muse,2022,Muse,564793915,6326491,"['alternative rock', 'rock', 'Progressive rock', 'alternative', 'indie']",564793915,Compliance,N/A,250000.0,123108.0,2022,1.9459128290864558,124
+Wake Me Up to Drive,Big Thief,2022,Big Thief,117556612,1625085,"['indie rock', 'indie folk', 'folk', 'folk rock', 'indie']",117556612,Dragon New Warm Mountain I Believe in You,N/A,223000.0,117962.0,2022,7.2588203078608196,125
+Ilusión De Amor,Jensine Benitez,2022,Jensine Benitez,931792,145765,"['soul', 'latin', 'rnb', 'san diego', 'Penrose']",931792,Ilusión De Amor / The Sparkle In Your Eyes,N/A,225000.0,117814.0,2022,80.82461496243954,126
+The Lightning II,Arcade Fire,2022,Arcade Fire,224186105,3096784,"['indie rock', 'indie', 'alternative', 'Canadian', 'rock']",224186105,"The Lightning I, II",N/A,154000.0,117170.0,2022,3.7836026019250935,127
+Birthday,Ten,2022,Ten,17008892,310063,"['hard rock', 'melodic rock', 'AOR', 'Kpop', 'pop']",17008892,Birthday - SM STATION : NCT LAB,N/A,221000.0,115767.0,2022,37.336605786565954,128
+Calico,DPR IAN,2022,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,Moodswings In To Order,N/A,222000.0,113981.0,2022,17.90352475496356,129
+I WANT U BABY,STAYC,2022,STAYC,86051423,733936,[],86051423,YOUNG-LUV.COM,N/A,174000.0,110507.0,2022,15.056762442501798,130
+Can't Control Myself,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,106518.0,2022,16.658430087078372,131
+"Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",Stray Kids,2022,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,ODDINARY,N/A,219000.0,99415.0,2022,7.5059872734575785,132
+House on Fire,Mimi Webb,2022,Mimi Webb,5903007,336121,"['pop', 'british', 'female vocalist', 'electropop', 'female vocalists']",5903007,House on Fire,N/A,139000.0,97276.0,2022,28.940768354253375,133
+These Are the Ways,Red Hot Chili Peppers,2022,Red Hot Chili Peppers,552392959,7187992,"['rock', 'alternative rock', 'Funk Rock', 'alternative', 'funk']",552392959,Unlimited Love,N/A,236000.0,95769.0,2022,1.3323470588169826,134
+Loser,Charlie Puth,2022,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,CHARLIE,N/A,204000.0,95301.0,2022,3.953117267806574,135
+Charlie Be Quiet!,Charlie Puth,2022,Charlie Puth,132342443,2410781,"['pop', 'rnb', 'soul', 'american', 'USA']",132342443,CHARLIE,N/A,128000.0,89688.0,2022,3.720288155581117,136
+Super Yuppers!,WJSN CHOCOME,2022,WJSN CHOCOME,2261007,108848,"['k-pop', 'Kpop', 'Korean', 'pop', 'WJSN']",2261007,Super Yuppers!,N/A,217000.0,86638.0,2022,79.59539908863736,137
+Watermelon Moonshine,Lainey Wilson,2022,Lainey Wilson,4367829,215913,"['country', 'country rock', 'rock', 'Olivia', 'USA']",4367829,Songs from Bell Bottom Country,N/A,208000.0,78970.0,2022,36.5749167488757,138
+Easy Lover (feat. Big Sean),Ellie Goulding,2022,Ellie Goulding,150866337,3907039,"['electronic', 'female vocalists', 'british', 'indie', 'indie pop']",150866337,Easy Lover (feat. Big Sean),N/A,215000.0,74163.0,2022,1.8981893961130154,139
+Blah Blah Blah,ITZY,2022,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,Blah Blah Blah,N/A,185000.0,73856.0,2022,7.5205104367244,140
+Scent of you,&TEAM,2022,&TEAM,21267898,199382,"['k-pop', 'j-pop', 'yuma e maki da jen', 'japanese', 'nimajo da lili']",21267898,First Howling : ME,N/A,179000.0,68854.0,2022,34.533709161308444,141
+Shut Off The Lights,Bastille,2022,Bastille,90576948,2375149,"['indie', 'electronic', 'alternative', 'british', 'House']",90576948,Give Me the Future,N/A,187000.0,67033.0,2022,2.822265045266634,142
+i hate to admit (Bang Chan),Stray Kids,2022,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,SKZ-REPLAY,N/A,170000.0,65806.0,2022,4.96845544955137,143
+Some Nights,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,N/A,N/A,207000.0,61354.0,2022,9.595198178360524,144
+Love In Space,Cherry Bullet,2022,Cherry Bullet,8447385,225532,"['k-pop', 'Korean', 'pop', 'girl group', 'fnc']",8447385,Cherry Wish - EP,N/A,216000.0,61227.0,2022,27.147810510260186,145
+KISS,TRI.BE,2022,TRI.BE,5174616,160595,"['k-pop', 'Korean', 'Kpop', 'pop', 'moombahton']",5174616,LEVIOSA - Single,N/A,185000.0,61036.0,2022,38.00616457548492,146
+Set Myself On Fire,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,157000.0,60405.0,2022,9.446783355019518,147
+Pirates,Xdinary Heroes,2022,Xdinary Heroes,32601985,293666,"['rock', 'k-rock', 'Korean', 'k-pop', 'korean rock']",32601985,"Hello, world!",N/A,199000.0,60396.0,2022,20.566221489719613,148
+Toddler,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,N/A,N/A,188000.0,59223.0,2022,9.261929486537884,149
+Cursed,King Princess,2022,King Princess,26591178,984152,"['indie pop', 'pop', 'female vocalists', 'indie', 'american']",26591178,Hold On Baby,N/A,200000.0,58693.0,2022,5.9638145327144585,150
+Siren,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,56857.0,2022,8.891908968071265,151
+Villain,PIXY,2022,PIXY,5602720,135700,"['k-pop', 'Kpop', 'Korean', 'pop', 'pixy']",5602720,REBORN,N/A,193000.0,56697.0,2022,41.78113485630066,152
+Cold as Hell,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,51520.0,2022,8.057251526373737,153
+Ven para,Weeekly,2022,Weeekly,13838451,405947,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",13838451,Play Game : AWAKE,N/A,195000.0,49446.0,2022,12.180407787223455,154
+No Love Again,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,47745.0,2022,7.466876438794916,155
+Timeless,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,46195.0,2022,7.224470773696328,156
+Titanic,Σtella,2022,Σtella,3754330,418775,"['indie pop', 'Greek', 'female vocalists', 'greece', 'electronic']",3754330,Up and Away,N/A,0.0,44528.0,2022,10.63291743776491,157
+Hung Up on Tokischa,Madonna,2022,Madonna,355367626,5520985,"['pop', 'dance', 'female vocalists', '80s', 'electronic']",355367626,Hung Up on Tokischa,N/A,206000.0,44415.0,2022,0.8044760128853818,158
+Ending Credits,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,225000.0,42751.0,2022,6.68586102492243,159
+Angel,First Aid Kit,2022,First Aid Kit,30484673,1070302,"['folk', 'swedish', 'indie', 'female vocalists', 'dream pop']",30484673,Angel,N/A,219000.0,42522.0,2022,3.972897369153753,160
+You Better Not,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,INVU,N/A,0.0,41794.0,2022,6.536195075568012,161
+Heart,TAEYEON,2022,TAEYEON,58011260,639424,[],58011260,N/A,N/A,232000.0,41440.0,2022,6.480832749474527,162
+Alive,LIGHTSUM,2022,LIGHTSUM,4242348,135987,"['k-pop', 'pop', 'Korean', 'Kpop', 'girl group']",4242348,Into The Light,N/A,186000.0,41433.0,2022,30.468353592622826,163
+Right Now,Angel Olsen,2022,Angel Olsen,36441492,900924,"['folk', 'indie folk', 'Lo-Fi', 'female vocalists', 'dark folk']",36441492,Big Time,N/A,0.0,41279.0,2022,4.5818515213269935,164
+Snap Snap,Red Velvet,2022,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,Bloom,N/A,0.0,40355.0,2022,2.948603477678878,165
+Bad Man,Disturbed,2022,Disturbed,173102638,3524425,"['Nu Metal', 'metal', 'hard rock', 'alternative', 'rock']",173102638,Divisive,N/A,202000.0,40148.0,2022,1.1391361711484853,166
+Adrenaline,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS],N/A,194000.0,39811.0,2022,23.890422467594817,167
+SHUT DOWN,CLASS:y,2022,CLASS:y,3735405,107495,"['k-pop', 'Korean', 'pop', 'Kpop', 'girl group']",3735405,CLASS IS OVER,N/A,206000.0,39366.0,2022,36.62123819712545,168
+SNEAKERS (English Ver.),ITZY,2022,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,CHECKMATE,N/A,179000.0,37767.0,2022,3.8456877933244473,169
+Jackpot,Red Velvet,2022,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,Bloom,N/A,0.0,37292.0,2022,2.724800418525603,170
+gaslighting,OnlyOneOf,2022,OnlyOneOf,10833751,169629,"['k-pop', 'queer', 'Korean', 'pop', 'electropop']",10833751,"Instinct, Pt. 2 - EP",N/A,170000.0,35462.0,2022,20.905623448820663,171
+Meteorite,BANKS,2022,BANKS,50438932,1181965,"['electronic', 'downtempo', 'pop', 'female vocalists', 'indie']",50438932,Serpentina [Explicit],N/A,0.0,35173.0,2022,2.9758072362548806,172
+Rock Believer,Scorpions,2022,Scorpions,87370700,2808625,"['hard rock', 'classic rock', 'heavy metal', 'rock', '80s']",87370700,Rock Believer,N/A,237000.0,34208.0,2022,1.217962526147136,173
+Strongest of the Strong,Kreator,2022,Kreator,39299026,659571,"['thrash metal', 'german', 'metal', 'heavy metal', 'thrash']",39299026,Hate Über Alles,N/A,241000.0,32913.0,2022,4.990061721937441,174
+Rip Off,Momma,2022,Momma,7588379,344778,"['indie rock', 'indie', 'alternative', 'USA', 'rock']",7588379,Household Name,N/A,220000.0,30976.0,2022,8.98433194693397,175
+MANIAC (feat. Windser),Macklemore,2022,Macklemore,20629358,1503060,"['Hip-Hop', 'rap', 'underground rap', 'hip hop', 'seattle']",20629358,MANIAC (feat. Windser),N/A,180000.0,29310.0,2022,1.9500219552113687,176
+She Still Leads Me On,Suede,2022,Suede,32578127,1049449,"['britpop', 'british', 'indie', 'alternative', 'rock']",32578127,Autofiction,N/A,249000.0,27733.0,2022,2.6426248440848483,177
+Athletic Girl,H1-KEY,2022,H1-KEY,3229171,103854,"['k-pop', 'pop', 'Korean', 'female vocalists', 'H1-KEY']",3229171,Athletic Girl - Single,N/A,212000.0,25272.0,2022,24.334161418915016,178
+PARTY ROCK,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,NEW WAVE,N/A,184000.0,25263.0,2022,15.160225636101776,179
+Absolute,Foxes,2022,Foxes,14418454,519752,"['pop', 'indie', 'indie pop', 'female vocalists', 'screamo']",14418454,Absolute,N/A,190000.0,22733.0,2022,4.373816743369915,180
+Magnetic,KWON EUNBI,2022,KWON EUNBI,4706177,172771,"['k-pop', 'pop', 'Korean', 'izone', 'KWON EUN BI']",4706177,Color,N/A,183000.0,22313.0,2022,12.914783152265136,181
+Broken,Cherry Bullet,2022,Cherry Bullet,8447385,225532,"['k-pop', 'Korean', 'pop', 'girl group', 'fnc']",8447385,Cherry Wish - EP,N/A,191000.0,21555.0,2022,9.557402053810545,182
+Ram pam pam,Bess,2022,Bess,1364240,37698,"['finnish', 'pop', 'finland', 'dance', 'Hip-Hop']",1364240,Ram pam pam - Single,N/A,179000.0,20368.0,2022,54.02939147965409,183
+Karma Climb,Editors,2022,Editors,71049501,1968524,"['indie rock', 'indie', 'british', 'alternative', 'rock']",71049501,EBM,N/A,318000.0,19113.0,2022,0.9709305042763005,184
+Holding Out for a Hero,Adam Lambert,2022,Adam Lambert,41633098,1250290,"['pop', 'rock', 'glam', 'American Idol', 'pop rock']",41633098,High Drama,N/A,230000.0,18847.0,2022,1.5074102808148508,185
+Euratcha!,CSR,2022,CSR,2929241,79793,"['k-pop', 'Korean', 'pop', 'female vocalists', 'girlgroup']",2929241,Sequence : 7272,N/A,187000.0,18523.0,2022,23.213815748248592,186
+Sweetie,WJSN CHOCOME,2022,WJSN CHOCOME,2261007,108848,"['k-pop', 'Kpop', 'Korean', 'pop', 'WJSN']",2261007,Super Yuppers!,N/A,192000.0,17986.0,2022,16.52396001763928,187
+The Wolf,Billy Talent,2022,Billy Talent,100906549,1816760,"['punk rock', 'rock', 'alternative rock', 'punk', 'alternative']",100906549,Crisis Of Faith,N/A,227000.0,17950.0,2022,0.9880226336995531,188
+KKa KKa,Cherry Bullet,2022,Cherry Bullet,8447385,225532,"['k-pop', 'Korean', 'pop', 'girl group', 'fnc']",8447385,Cherry Wish - EP,N/A,212000.0,15957.0,2022,7.075270914992108,189
+Boogie Woogie,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,Boogie Woogie,N/A,190000.0,15593.0,2022,9.357297167546808,190
+Hiccups,Cherry Bullet,2022,Cherry Bullet,8447385,225532,"['k-pop', 'Korean', 'pop', 'girl group', 'fnc']",8447385,Cherry Wish - EP,N/A,223000.0,14050.0,2022,6.229714630296366,191
+Creature,E'LAST,2022,E'LAST,2470000,57774,"['pop', 'k-pop', 'Korean', 'Kpop', 'male vocalists']",2470000,3rd Mini Album [ROAR],N/A,206000.0,13757.0,2022,23.811749229757332,192
+Maybe Baby,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS],N/A,170000.0,12633.0,2022,7.581012962073933,193
+POW!,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS],N/A,171000.0,10924.0,2022,6.555448871819491,194
+Parallel Universe,NINE.i,2022,NINE.i,1430471,31680,"['k-pop', 'pop', 'Korean', 'synthpop', 'boybands']",1430471,NEW WORLD,N/A,208000.0,10726.0,2022,33.85732323232323,195
+Colorful,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,NEW WAVE,N/A,221000.0,9174.0,2022,5.505280844935189,196
+New Addiction,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,NEW WAVE,N/A,170000.0,8383.0,2022,5.030604896783485,197
+Automatic,CRAVITY,2022,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,NEW WAVE,N/A,198000.0,7868.0,2022,4.72155544887182,198
+Sun numero,YOUNGHEARTED,2022,YOUNGHEARTED,530350,17392,"['finnish', 'pop', 'indie', 'finland', 'female vocalists']",530350,Sun numero - Single,N/A,188000.0,6626.0,2022,38.09797608095676,199
+King,Florence + the Machine,2022,Florence   The Machine,187007,17115,[],187007,N/A,N/A,0.0,532.0,2022,3.1083844580777096,200
+From the Start,Laufey,2023,Laufey,246922075,2268345,"['jazz', 'Bossa Nova', 'pop', 'female vocalists', 'jazz pop']",246922075,From The Start - Single,N/A,184000.0,1462521.0,2023,64.47524516773242,1
+Paint the Town Red,Doja Cat,2023,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,Paint the Town Red,N/A,231000.0,1263797.0,2023,35.496316244335894,2
+bad idea right?,Olivia Rodrigo,2023,Olivia Rodrigo,541878471,3027822,"['pop', 'pop rock', 'rock', 'female vocalists', 'indie pop']",541878471,bad idea right?,N/A,184000.0,1170313.0,2023,38.651974917944315,3
+Super Shy,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Get Up,N/A,154000.0,1163539.0,2023,65.75513011280569,4
+Flowers,Miley Cyrus,2023,Miley Cyrus,295900006,4785176,"['pop', 'female vocalists', 'dance', 'Disney', 'guilty pleasure']",295900006,Flowers,N/A,200000.0,1160317.0,2023,24.248157225564952,5
+Agora Hills,Doja Cat,2023,Doja Cat,456043431,3560361,"['pop', 'rnb', 'rap', 'Hip-Hop', 'hip hop']",456043431,Scarlet,N/A,265000.0,1127740.0,2023,31.674877912661103,6
+Rush,Troye Sivan,2023,Troye Sivan,167167720,2413316,"['pop', 'indie pop', 'indie', 'male vocalists', 'alternative']",167167720,Rush,N/A,156000.0,1014794.0,2023,42.049777153095576,7
+OMG,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,OMG,N/A,212000.0,990214.0,2023,55.960006849380875,8
+New Jeans,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Get Up,N/A,98000.0,975027.0,2023,55.10174325785263,9
+ETA,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Get Up,N/A,151000.0,863045.0,2023,48.77329962141912,10
+A&W,Lana Del Rey,2023,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Did you know that there's a tunnel under Ocean Blvd,N/A,433000.0,785863.0,2023,15.169887966482987,11
+MELTDOWN (feat. Drake),Travis Scott,2023,Travis Scott,667663266,3280150,[],667663266,UTOPIA (Spotfiy),N/A,246000.0,730633.0,2023,22.274377696141944,12
+Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs Scary Hours Edition,N/A,319000.0,723155.0,2023,10.879957801431724,13
+Perfect Night,LE SSERAFIM,2023,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,Perfect Night,N/A,159000.0,722690.0,2023,44.69621675645822,14
+First Person Shooter (feat. J. Cole),Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs Scary Hours Edition,N/A,248000.0,683498.0,2023,10.283313255613223,15
+Vampire Empire,Big Thief,2023,Big Thief,117556612,1625085,"['indie rock', 'indie folk', 'folk', 'folk rock', 'indie']",117556612,Vampire Empire,N/A,192000.0,681179.0,2023,41.91651513613134,16
+Cool With You,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Get Up,N/A,147000.0,661610.0,2023,37.38959470540598,17
+Drama,aespa,2023,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,Drama,N/A,214000.0,619172.0,2023,47.76824564110477,18
+TOPIA TWINS (feat. Rob49 & 21 Savage),Travis Scott,2023,Travis Scott,667663266,3280150,[],667663266,UTOPIA (Spotfiy),N/A,223000.0,615365.0,2023,18.760270109598647,19
+If You Don't Want My Love,Jalen Ngonda,2023,Jalen Ngonda,5506013,606286,"['soul', 'rnb', 'USA', 'reggae', 'daptone']",5506013,If You Don't Want My Love,N/A,147000.0,556014.0,2023,91.70820371903689,20
+Get Up,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Get Up,N/A,36000.0,535892.0,2023,30.284887903552583,21
+I AM,IVE,2023,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,I’ve IVE,N/A,183000.0,521661.0,2023,50.84826550295979,22
+Slime You Out (feat. SZA),Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Slime You Out (feat. SZA) - Single,N/A,310000.0,520251.0,2023,7.827241637204549,23
+UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,2023,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,UNFORGIVEN,N/A,182000.0,504838.0,2023,31.222721602480807,24
+Sweet,Lana Del Rey,2023,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Did you know that there's a tunnel under Ocean Blvd,N/A,215000.0,498954.0,2023,9.631546822319606,25
+MOONLIGHT SUNRISE,TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,MOONLIGHT SUNRISE,N/A,180000.0,469467.0,2023,25.111861280778903,26
+Search & Rescue,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Search & Rescue,N/A,272000.0,464627.0,2023,6.990371570971393,27
+Spicy,aespa,2023,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,MY WORLD,N/A,199000.0,458448.0,2023,35.368615954328035,28
+What A Day,"Tyler, The Creator",2023,"Tyler, The Creator",1027180546,4255100,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",1027180546,CALL ME IF YOU GET LOST: The Estate Sale,N/A,216000.0,437361.0,2023,10.278512843411436,29
+Candy Necklace (feat. Jon Batiste),Lana Del Rey,2023,Lana Del Rey,1547583167,5180414,"['indie', 'female vocalists', 'indie pop', 'pop', 'alternative']",1547583167,Did you know that there's a tunnel under Ocean Blvd (Deluxe Version),N/A,314000.0,434927.0,2023,8.395603131332747,30
+opposite,Sabrina Carpenter,2023,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,emails i can’t send fwd:,N/A,168000.0,431431.0,2023,13.599951833024516,31
+highway 95,Baby Keem,2023,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,The Melodic Blue (Deluxe),N/A,91000.0,427192.0,2023,21.49593798668052,32
+Last Night,Morgan Wallen,2023,Morgan Wallen,87700334,962514,"['country', 'country pop', 'contemporary country', 'the voice', 'bro-country']",87700334,3 Songs at a Time Sampler,N/A,161000.0,408776.0,2023,42.46961602636429,33
+Sugar Rush Ride,TOMORROW X TOGETHER,2023,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Name Chapter: TEMPTATION,N/A,186000.0,398680.0,2023,33.168770705522746,34
+FLOWER,JISOO,2023,JISOO,44824598,619846,"['k-pop', 'pop', 'Korean', 'blackpink', 'BLISSOO']",44824598,ME,N/A,174000.0,396589.0,2023,63.98186001038968,35
+Rover,Kai,2023,Kai,43258487,699824,"['exo', 'rnb', 'Kpop', 'k-pop', 'pop']",43258487,Rover,N/A,174000.0,395627.0,2023,56.53235670682915,36
+Sugarcoat (NATTY Solo),Kiss of Life,2023,Kiss of Life,61476822,710786,"['k-pop', 'pop', 'Kpop', 'Korean', 'rnb']",61476822,KISS OF LIFE - EP,N/A,179000.0,381122.0,2023,53.61979555027814,37
+SET ME FREE,TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,READY TO BE,N/A,182000.0,379393.0,2023,20.29378931191873,38
+Now and Then,The Beatles,2023,The Beatles,1084445788,6445190,"['classic rock', 'rock', 'british', '60s', 'pop']",1084445788,The Beatles Lost Album,N/A,248000.0,375402.0,2023,5.824529610453688,39
+Yes or No,Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,147000.0,374627.0,2023,26.173568696823484,40
+Unknown / Nth,Hozier,2023,Hozier,276486848,3294111,"['blues', 'indie', 'soul', 'singer-songwriter', 'irish']",276486848,Unreal Unearth,N/A,280000.0,373998.0,2023,11.353533624094634,41
+You Broke My Heart,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs Scary Hours Edition,N/A,230000.0,372374.0,2023,5.602413599228847,42
+Dance the Night,Dua Lipa,2023,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,Dance The Night,N/A,176000.0,366496.0,2023,11.366923968250424,43
+Padam Padam,Kylie Minogue,2023,Kylie Minogue,173587223,3504437,"['pop', 'dance', 'female vocalists', 'australian', 'electronic']",173587223,Tension (Deluxe),N/A,166000.0,366261.0,2023,10.451350673446262,44
+Zero,NewJeans,2023,NewJeans,322817378,1769503,"['k-pop', 'Kpop', 'rnb', 'pop', 'Korean']",322817378,Zero,N/A,154000.0,365701.0,2023,20.666876518434837,45
+Slow Dancing,V,2023,V,719300435,906065,"['bts', 'pop', 'rnb', 'Melodic Death Metal', 'Taehyung']",719300435,Slow Dancing,N/A,190000.0,363240.0,2023,40.089839029208726,46
+Jaded,Miley Cyrus,2023,Miley Cyrus,295900006,4785176,"['pop', 'female vocalists', 'dance', 'Disney', 'guilty pleasure']",295900006,Endless Summer Vacation,N/A,182000.0,355694.0,2023,7.433248014284113,47
+Used to Be Young,Miley Cyrus,2023,Miley Cyrus,295900006,4785176,"['pop', 'female vocalists', 'dance', 'Disney', 'guilty pleasure']",295900006,Used to Be Young,N/A,190000.0,354672.0,2023,7.411890388148732,48
+Heaven,Niall Horan,2023,Niall Horan,70411861,1296894,"['pop', 'folk', 'irish', 'singer-songwriter', 'male vocalists']",70411861,Heaven,N/A,186000.0,352122.0,2023,27.15117812249883,49
+Kitsch,IVE,2023,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,Kitsch,N/A,195000.0,346688.0,2023,33.79298715198208,50
+Fast Car,Luke Combs,2023,Luke Combs,40151402,780646,"['country', 'country pop', 'contemporary country', 'americana', 'country rock']",40151402,Gettin' Old,N/A,265000.0,344946.0,2023,44.18725004675615,51
+kisses,Slowdive,2023,Slowdive,144021723,2181345,"['shoegaze', 'dream pop', 'ambient', 'indie', 'indie rock']",144021723,everything is alive,N/A,237000.0,339441.0,2023,15.561087310810532,52
+8am in Charlotte,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs,N/A,266000.0,336194.0,2023,5.058080955112717,53
+STUNTMAN (feat. Vince Staples),"Tyler, The Creator",2023,"Tyler, The Creator",1027180546,4255100,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",1027180546,CALL ME IF YOU GET LOST: The Estate Sale,N/A,199000.0,335613.0,2023,7.887311696552373,54
+Bahamas Promises,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs,N/A,184000.0,313365.0,2023,4.714615782848286,55
+Tell Me Why,Gotts Street Park,2023,Gotts Street Park,4652262,480190,"['soul', 'jazz', 'indie pop', 'funk', 'funk_add_to_lidarr_batch_11']",4652262,N/A,N/A,0.0,310271.0,2023,64.61421520648076,56
+Sweet Venom,ENHYPEN,2023,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,ORANGE BLOOD,N/A,148000.0,304983.0,2023,27.64159630506422,57
+Closer to You (feat. Major Lazer),Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,170000.0,301004.0,2023,21.029848014207882,58
+Like Crazy (English Version),Jimin,2023,Jimin,791688440,859538,"['k-pop', 'jimin', 'bts', 'Korean', 'Kpop']",791688440,FACE,N/A,212000.0,297158.0,2023,34.57182812161882,59
+Please Don't Change (feat. DJ Snake),Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,146000.0,294427.0,2023,20.570341461506107,60
+Hate You,Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,154000.0,293803.0,2023,20.526745279525585,61
+Gently (feat. Bad Bunny),Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs Scary Hours Edition,N/A,133000.0,292573.0,2023,4.401797531425882,62
+Shhh,Kiss of Life,2023,Kiss of Life,61476822,710786,"['k-pop', 'pop', 'Kpop', 'Korean', 'rnb']",61476822,KISS OF LIFE - EP,N/A,182000.0,289780.0,2023,40.76895155503907,63
+Seven (feat. Latto) (Clean Ver.),Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,Seven (feat. Latto),N/A,183000.0,289725.0,2023,20.24183305177466,64
+Somebody,Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,168000.0,288741.0,2023,20.173085226343833,65
+K-POP (feat. Bad Bunny & The Weeknd),Travis Scott,2023,Travis Scott,667663266,3280150,[],667663266,Utopia (Spotify),N/A,185000.0,282048.0,2023,8.598631160160359,66
+For Us,V,2023,V,719300435,906065,"['bts', 'pop', 'rnb', 'Melodic Death Metal', 'Taehyung']",719300435,Layover,N/A,171000.0,271283.0,2023,29.94078791256698,67
+D-Day,Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D-DAY,N/A,211000.0,264511.0,2023,31.84113559185334,68
+Made For Me,Muni Long,2023,Muni Long,8451173,558142,"['rnb', 'soul', 'rap', 'pop', 'indie rnb']",8451173,Made For Me,N/A,188000.0,264102.0,2023,47.31806601187512,69
+Drew a Picasso,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs,N/A,262000.0,262609.0,2023,3.9509853880235686,70
+BATTER UP,BABYMONSTER,2023,BABYMONSTER,33130444,513739,[],33130444,BATTER UP,N/A,188000.0,256245.0,2023,49.8784402196446,71
+Shot Glass of Tears,Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,167000.0,254715.0,2023,17.795835726232745,72
+Too Sad to Dance,Jung Kook,2023,Jung Kook,795017609,1431318,"['k-pop', 'pop', 'Korean', 'bts', 'jungkook']",795017609,GOLDEN,N/A,175000.0,248750.0,2023,17.379086967396486,73
+Bongos (feat. Megan Thee Stallion),Cardi B,2023,Cardi B,76994131,2385192,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'american']",76994131,Bongos (feat. Megan Thee Stallion),N/A,175000.0,247251.0,2023,10.366083736655163,74
+Alone,Jimin,2023,Jimin,791688440,859538,"['k-pop', 'jimin', 'bts', 'Korean', 'Kpop']",791688440,FACE,N/A,211000.0,244440.0,2023,28.438533258564487,75
+Perfume,NCT DOJAEJUNG,2023,NCT DOJAEJUNG,11774255,257005,"['k-pop', 'NCT', 'sexy', 'Korean', 'electro-funk']",11774255,Perfume,N/A,167000.0,242688.0,2023,94.42929125892492,76
+SDL,Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D‐DAY,N/A,171000.0,239446.0,2023,28.823877089901423,77
+HUH?! (feat. j-hope),Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D-DAY,N/A,183000.0,237867.0,2023,28.633801240127553,78
+"Snooze (feat. Ryuichi Sakamoto, Woosung of The Rose)",Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D-DAY,N/A,264000.0,237350.0,2023,28.571566145553078,79
+Off The Record,IVE,2023,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,I’VE MINE,N/A,188000.0,233819.0,2023,22.791219952491286,80
+naked freestyle,Baby Keem,2023,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,The Melodic Blue (Deluxe),N/A,108000.0,231233.0,2023,11.635447827848127,81
+Last Time I Saw You,Nicki Minaj,2023,Nicki Minaj,304255046,4699361,"['Hip-Hop', 'rap', 'rnb', 'pop', 'hip hop']",304255046,Last Time I Saw You,N/A,216000.0,228495.0,2023,4.862256804701746,82
+Will Anybody Ever Love Me?,Sufjan Stevens,2023,Sufjan Stevens,295763171,3859568,"['folk', 'indie', 'singer-songwriter', 'alternative', 'indie rock']",295763171,Javelin,N/A,249000.0,224426.0,2023,5.814795852800106,83
+Can't Tame Her,Zara Larsson,2023,Zara Larsson,77760970,2185312,"['pop', 'swedish', 'female vocalists', 'indie', 'Sweden']",77760970,Can’t Tame Her,N/A,196000.0,223359.0,2023,10.220920399466987,84
+CAKE,ITZY,2023,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,KILL MY DOUBT,N/A,198000.0,223273.0,2023,22.735145780150113,85
+Polar Opposites,Drake,2023,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,For All the Dogs,N/A,257000.0,215633.0,2023,3.2442255679572525,86
+Polar Night,Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D-DAY,N/A,165000.0,208846.0,2023,25.140329906189923,87
+Queencard,i-dle,2023,i-dle,15909899,475522,"['k-pop', 'Korean', 'i-dle', 'GIDLE', 'cube entertainment']",15909899,i feel,N/A,0.0,207347.0,2023,43.60408140948263,88
+Slow Dancing (Piano Ver.),V,2023,V,719300435,906065,"['bts', 'pop', 'rnb', 'Melodic Death Metal', 'Taehyung']",719300435,Layover,N/A,188000.0,201916.0,2023,22.284935407503877,89
+killstreaks (with Don Toliver & PinkPantheress),Baby Keem,2023,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,very cool music listen to this please,N/A,0.0,201436.0,2023,10.136088139021746,90
+KNOCK,LEE CHAE YEON,2023,LEE CHAE YEON,5516724,248490,"['k-pop', 'Korean', 'Kpop', 'izone', 'pop']",5516724,Over The Moon,N/A,174000.0,199639.0,2023,80.34085878707393,91
+NO ME QUIERO CASAR,Bad Bunny,2023,Bad Bunny,382878834,2475994,"['Reggaeton', 'trap', 'latin', 'puerto rico', 'trap latino']",382878834,nadie sabe lo que va a pasar mañana,N/A,225000.0,198403.0,2023,8.013064652014505,92
+Stamp On It,GOT the beat,2023,GOT the beat,11347743,364806,"['k-pop', 'Kpop', 'Korean', 'pop', 'red velvet']",11347743,Stamp On It,N/A,232000.0,197913.0,2023,54.251574809624834,93
+Interlude : Dawn,Agust D,2023,Agust D,574168520,830721,"['rap', 'Hip-Hop', 'Korean', 'bts', 'hip hop']",574168520,D‐DAY,N/A,105000.0,195861.0,2023,23.57722990029143,94
+DIE 4 YOU,Dean,2023,Dean,32679076,678922,"['rnb', 'Korean', 'k-rnb', 'soul', 'krnb']",32679076,DIE 4 YOU,N/A,194000.0,194950.0,2023,28.714638795030943,95
+Interlude : Dive,Jimin,2023,Jimin,791688440,859538,"['k-pop', 'jimin', 'bts', 'Korean', 'Kpop']",791688440,FACE,N/A,130000.0,194149.0,2023,22.58759938478578,96
+love you twice,HUH YUNJIN,2023,HUH YUNJIN,8601264,290306,"['k-pop', 'LE SSERAFIM', 'Kpop', 'pop', 'huh yunjin']",8601264,love you twice,N/A,172000.0,193480.0,2023,66.64691739061543,97
+Rising,tripleS,2023,tripleS,62356708,418875,[],62356708,ASSEMBLE,N/A,154000.0,192605.0,2023,45.981498060280515,98
+Bills,ENHYPEN,2023,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,DARK BLOOD - EP,N/A,175000.0,192311.0,2023,17.429768305194735,99
+Happily Ever After,TOMORROW X TOGETHER,2023,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Name Chapter: FREEFALL,N/A,151000.0,191714.0,2023,15.949929033406713,100
+Trustfall,P!nk,2023,P!nk,122141424,3731132,"['pop', 'pop rock', 'female vocalists', 'rock', 'female']",122141424,TRUSTFALL [Clean],N/A,236000.0,188954.0,2023,5.064253958316136,101
+THE GIRLS - BLACKPINK THE GAME OST,BLACKPINK,2023,BLACKPINK,305695144,1952307,"['k-pop', 'Kpop', 'pop', 'Korean', 'blackpink']",305695144,THE GIRLS (BLACKPINK THE GAME OST),N/A,162000.0,181823.0,2023,9.31323813314197,102
+Needs,Tinashe,2023,Tinashe,83604278,1586552,"['rnb', 'pop', 'soul', 'Hip-Hop', 'british']",83604278,Needs,N/A,146000.0,181327.0,2023,11.428998230124193,103
+Sou Musa do Verão,Marshmello,2023,Marshmello,67374129,2534472,"['electronic', 'dance', 'EDM', 'trap', 'pop']",67374129,Sou Musa do Verão,N/A,187000.0,178096.0,2023,7.026946835475003,104
+Hare Hare,TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,Hare Hare,N/A,203000.0,175532.0,2023,9.38923339518578,105
+Rescued,Foo Fighters,2023,Foo Fighters,359676961,6313148,"['rock', 'alternative rock', 'Grunge', 'alternative', 'hard rock']",359676961,Rescued,N/A,239000.0,175192.0,2023,2.775033945030277,106
+Back To Me,The Rose,2023,The Rose,24488666,460124,"['rock', 'indie rock', 'k-rock', 'indie', 'Korean']",24488666,Back To Me / Alive,N/A,224000.0,171773.0,2023,37.331893141848724,107
+Cream Soda,Exo,2023,Exo,165379088,1033112,"['k-pop', 'exo', 'Korean', 'Kpop', 'exo-k']",165379088,EXIST,N/A,185000.0,165742.0,2023,16.04298469091444,108
+Bubble,STAYC,2023,STAYC,86051423,733936,[],86051423,TEENFRESH,N/A,178000.0,164057.0,2023,22.353038957075277,109
+I'm Unhappy,aespa,2023,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,MY WORLD,N/A,205000.0,162030.0,2023,12.500385742940903,110
+#menow,fromis_9,2023,fromis_9,51801034,566095,"['k-pop', 'Korean', 'pop', 'girl group', 'Kpop']",51801034,Unlock My World,N/A,168000.0,157832.0,2023,27.880832722422916,111
+SET ME FREE (ENG),TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,READY TO BE,N/A,182000.0,156390.0,2023,8.365324901858944,112
+"FEARNOT (Between you, me and the lamppost)",LE SSERAFIM,2023,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,UNFORGIVEN,N/A,207000.0,151168.0,2023,9.349289037679055,113
+Still Monster,ENHYPEN,2023,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,ORANGE BLOOD,N/A,186000.0,150267.0,2023,13.61918451839311,114
+Ruined,Adrianne Lenker,2023,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Ruined,N/A,272000.0,145409.0,2023,11.046478943857885,115
+bank account (with Lil Uzi Vert),Baby Keem,2023,Baby Keem,195006090,1987315,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'west coast hip hop']",195006090,N/A,N/A,214000.0,144793.0,2023,7.285860570669471,116
+Burn the Bridge,LE SSERAFIM,2023,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,UNFORGIVEN,N/A,155000.0,143203.0,2023,8.856677590910468,117
+Dreamer,TOMORROW X TOGETHER,2023,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Name Chapter: FREEFALL,N/A,186000.0,139273.0,2023,11.58702268102305,118
+Broken Melodies,NCT DREAM,2023,NCT DREAM,113091553,673600,"['k-pop', 'Korean', 'NCT', 'pop', 'nct dream']",113091553,Broken Melodies,N/A,227000.0,138689.0,2023,20.589222090261284,119
+Tension,Kylie Minogue,2023,Kylie Minogue,173587223,3504437,"['pop', 'dance', 'female vocalists', 'australian', 'electronic']",173587223,Tension (Deluxe),N/A,216000.0,137602.0,2023,3.926508023970755,120
+Choose Your Fighter,Ava Max,2023,Ava Max,65946023,1558463,"['pop', 'electropop', 'female vocalists', 'american', 'USA']",65946023,Barbie: The Album,N/A,138000.0,134797.0,2023,8.649355165955175,121
+WALLFLOWER,TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,READY TO BE,N/A,176000.0,134511.0,2023,7.195013861972941,122
+Borderline,Tove Lo,2023,Tove Lo,122045272,2406366,"['pop', 'swedish', 'electronic', 'female vocalists', 'indie']",122045272,Borderline,N/A,193000.0,134086.0,2023,5.572136574403062,123
+Talk to Me Nice,Tinashe,2023,Tinashe,83604278,1586552,"['rnb', 'pop', 'soul', 'Hip-Hop', 'british']",83604278,Talk To Me Nice,N/A,229000.0,132453.0,2023,8.348481486897374,124
+ISTJ,NCT DREAM,2023,NCT DREAM,113091553,673600,"['k-pop', 'Korean', 'NCT', 'pop', 'nct dream']",113091553,INFJ,N/A,186000.0,131293.0,2023,19.491241092636578,125
+Sweet Juice,PURPLE KISS,2023,PURPLE KISS,18983073,271016,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",18983073,Cabin Fever,N/A,192000.0,131068.0,2023,48.36172034123447,126
+Stuck,Thirty Seconds to Mars,2023,Thirty Seconds to Mars,42830176,1535087,[],42830176,Stuck,N/A,182000.0,127779.0,2023,8.323893043195598,127
+Peanut Butter & Tears,DPR IAN,2023,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,Dear Insanity...,N/A,225000.0,127403.0,2023,20.011780598140234,128
+Lipstick Lover,Janelle Monáe,2023,Janelle Monáe,50819064,1230900,"['soul', 'rnb', 'female vocalists', 'alternative', 'funk']",50819064,The Age of Pleasure,N/A,169000.0,127090.0,2023,10.324965472418555,129
+HARD,SHINee,2023,SHINee,102659452,832770,"['k-pop', 'Korean', 'shinee', 'Kpop', 'pop']",102659452,HARD,N/A,176000.0,121991.0,2023,14.648822604080358,130
+Bye My Neverland,Kiss of Life,2023,Kiss of Life,61476822,710786,"['k-pop', 'pop', 'Kpop', 'Korean', 'rnb']",61476822,KISS OF LIFE - EP,N/A,203000.0,121768.0,2023,17.131457288128914,131
+Cherish,IVE,2023,IVE,154815663,1025917,"['k-pop', 'Korean', 'Kpop', 'pop', 'female vocalists']",154815663,I’ve IVE,N/A,194000.0,121439.0,2023,11.83711742762816,132
+BLAME IT ON ME,TWICE,2023,TWICE,488851948,1869503,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",488851948,READY TO BE,N/A,160000.0,121009.0,2023,6.472789827028895,133
+Knock Knock (Who's There?),Red Velvet,2023,Red Velvet,241281245,1368614,"['k-pop', 'Kpop', 'pop', 'Korean', 'female vocalists']",241281245,Chill Kill,N/A,201000.0,120539.0,2023,8.807377390557162,134
+One In A Million,Bebe Rexha,2023,Bebe Rexha,37160436,1434248,"['pop', 'female vocalists', 'electronic', 'singer-songwriter', 'alternative']",37160436,One In A Million,N/A,160000.0,118884.0,2023,8.288943055873183,135
+Cover Me,Stray Kids,2023,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,ROCK-STAR,N/A,191000.0,118751.0,2023,8.965885376556464,136
+Marshmallow,MISAMO,2023,MISAMO,18378221,333438,"['j-pop', 'japanese', 'twice', 'sana', 'mina']",18378221,MISAMO,N/A,182000.0,118523.0,2023,35.54573863806765,137
+F*ck My Life,Seventeen,2023,Seventeen,284920887,927181,"['k-pop', 'Kpop', 'pop', 'rock', 'seventeen']",284920887,FML,N/A,202000.0,116976.0,2023,12.61630684839314,138
+"Look Ma, No Brains!",Green Day,2023,Green Day,438568755,6520124,"['punk rock', 'rock', 'punk', 'pop punk', 'alternative']",438568755,"Look Ma, No Brains!",N/A,124000.0,116434.0,2023,1.7857635836373664,139
+COMFLEX,Stray Kids,2023,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,ROCK-STAR,N/A,172000.0,116220.0,2023,8.774790936189104,140
+EUNOIA,Billlie,2023,Billlie,23632790,318912,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",23632790,the Billage of perception : chapter three,N/A,204000.0,115869.0,2023,36.33259331727875,141
+Sensitive,Loossemble,2023,Loossemble,20519658,267327,"['Loona', 'k-pop', 'Kpop', 'Korean', 'girl group']",20519658,LOOSSEMBLE,N/A,185000.0,114428.0,2023,42.80450534364281,142
+If Darkness Had a Son,Metallica,2023,Metallica,528860334,5129334,"['thrash metal', 'heavy metal', 'metal', 'hard rock', 'rock']",528860334,72 Seasons,N/A,436000.0,114374.0,2023,2.229802153651917,143
+Let Me In,Exo,2023,Exo,165379088,1033112,"['k-pop', 'exo', 'Korean', 'Kpop', 'exo-k']",165379088,Let Me In,N/A,197000.0,111500.0,2023,10.792634293280884,144
+Angry,The Rolling Stones,2023,The Rolling Stones,271177712,5779078,"['classic rock', 'rock', 'british', '60s', 'blues']",271177712,Hackney Diamonds,N/A,226000.0,109841.0,2023,1.9006665077024396,145
+Blind Spot,Stray Kids,2023,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,ROCK-STAR,N/A,200000.0,109667.0,2023,8.280029234202809,146
+CRUSH,ZEROBASEONE,2023,ZEROBASEONE,55829053,319434,"['k-pop', 'Kpop', 'Hanbin da lizii', 'Korean', 'boys planet']",55829053,MELTING POINT,N/A,169000.0,108256.0,2023,33.88994283639187,147
+GET LIT,Stray Kids,2023,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,5-STAR,N/A,171000.0,107717.0,2023,8.13280119836071,148
+SLAY,Everglow,2023,Everglow,35914985,641505,"['k-pop', 'Korean', 'Kpop', 'pop', 'girl group']",35914985,ALL MY GIRLS,N/A,220000.0,107608.0,2023,16.774304175337683,149
+Beautiful Liar,MONSTA X,2023,MONSTA X,65954162,558912,"['k-pop', 'Korean', 'Kpop', 'Hip-Hop', 'best of 2017']",65954162,REASON,N/A,183000.0,102978.0,2023,18.424725180350396,150
+Blue Spring,TOMORROW X TOGETHER,2023,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Name Chapter: FREEFALL,N/A,186000.0,102775.0,2023,8.550517731664744,151
+Religiously,Bailey Zimmerman,2023,Bailey Zimmerman,8632835,279190,"['country', 'contemporary country', 'rock', 'singer-songwriter', 'USA']",8632835,Religiously. The Album.,N/A,178000.0,101180.0,2023,36.240553028403596,152
+Drowning,WOODZ,2023,WOODZ,23927142,336344,"['k-pop', 'rock', 'Korean', 'rnb', 'k-rnb']",23927142,OO-LI,N/A,244000.0,100679.0,2023,29.933342054563184,153
+Blind,ENHYPEN,2023,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,ORANGE BLOOD,N/A,198000.0,100564.0,2023,9.11444077480541,154
+Deep Down,TOMORROW X TOGETHER,2023,TOMORROW X TOGETHER,422061318,1201974,"['k-pop', 'Kpop', 'pop', 'Korean', 'txt']",422061318,The Name Chapter: FREEFALL,N/A,163000.0,99635.0,2023,8.289280799751078,155
+Orange Flower (You Complete Me),ENHYPEN,2023,ENHYPEN,327809340,1103348,"['k-pop', 'Kpop', 'Korean', 'pop', 'boy group']",327809340,ORANGE BLOOD,N/A,180000.0,98877.0,2023,8.961542505175156,156
+Gimme Love,Sia,2023,Sia,161927127,4361667,"['female vocalists', 'indie', 'chillout', 'trip-hop', 'downtempo']",161927127,Gimme Love,N/A,177000.0,97270.0,2023,2.2301106434764506,157
+Kill Shot,ITZY,2023,ITZY,134646433,982061,"['k-pop', 'Kpop', 'Korean', 'pop', 'girl group']",134646433,KILL MY DOUBT,N/A,136000.0,94887.0,2023,9.66202710422265,158
+BONVOYAGE,Dreamcatcher,2023,Dreamcatcher,79061004,557395,"['k-pop', 'rock', 'Korean', 'k-rock', 'Kpop']",79061004,[Apocalypse : From us],N/A,213000.0,91224.0,2023,16.36613173781609,159
+Poppin' Love,WayV,2023,WayV,42640811,537466,"['C-pop', 'NCT', 'k-pop', 'chinese', 'cpop']",42640811,N/A,N/A,185000.0,89038.0,2023,16.56625721440984,160
+In Spite of War,Yves Tumor,2023,Yves Tumor,47362161,1036866,"['Neo-Psychedelia', 'ambient', 'experimental', 'hypnagogic pop', 'art rock']",47362161,Praise A Lord Who Chews But Which Does Not Consume; (Or Simply: Hot Between Worlds),N/A,151000.0,84728.0,2023,8.171547721692098,161
+The Painter,Cody Johnson,2023,Cody Johnson,8855552,262164,"['country', 'USA', 'texas', 'United States', 'american']",8855552,The Painter,N/A,211000.0,80149.0,2023,30.572084649303488,162
+You Only Love Me,Rita Ora,2023,Rita Ora,28708778,1321646,"['pop', 'dance', 'female vocalists', 'rnb', 'british']",28708778,You Only Love Me,N/A,148000.0,79176.0,2023,5.990711582375311,163
+ARRIBA,ATEEZ,2023,ATEEZ,210298311,789322,"['k-pop', 'Korean', 'Kpop', 'pop', 'boy group']",210298311,THE WORLD EP.FIN : WILL,N/A,217000.0,79042.0,2023,10.013910672703915,164
+Younger & Dumber,Indigo De Souza,2023,Indigo De Souza,21320316,662043,"['indie rock', 'indie pop', 'singer-songwriter', 'indie', 'North Carolina']",21320316,Younger & Dumber,N/A,279000.0,75760.0,2023,11.443365461155846,165
+Beam,tripleS,2023,tripleS,62356708,418875,[],62356708,ASSEMBLE,N/A,159000.0,72915.0,2023,17.407341092211283,166
+Girls’ Capitalism,tripleS,2023,tripleS,62356708,418875,[],62356708,LOVElution <ↀ>,N/A,218000.0,72258.0,2023,17.250492390331246,167
+Violet Crazy,DPR IAN,2023,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,Dear Insanity...,N/A,188000.0,68748.0,2023,10.798567479266147,168
+Heart Wants What It Wants,Bebe Rexha,2023,Bebe Rexha,37160436,1434248,"['pop', 'female vocalists', 'electronic', 'singer-songwriter', 'alternative']",37160436,Heart Wants What It Wants,N/A,182000.0,68091.0,2023,4.7475053128887055,169
+Take My Hand,ZEROBASEONE,2023,ZEROBASEONE,55829053,319434,"['k-pop', 'Kpop', 'Hanbin da lizii', 'Korean', 'boys planet']",55829053,MELTING POINT,N/A,215000.0,66296.0,2023,20.75420900718145,170
+The Teacher,Foo Fighters,2023,Foo Fighters,359676961,6313148,"['rock', 'alternative rock', 'Grunge', 'alternative', 'hard rock']",359676961,But Here We Are,N/A,604000.0,66163.0,2023,1.048019149875783,171
+American Daughter,Beach House,2023,Beach House,240496296,3473201,"['dream pop', 'indie pop', 'indie', 'Lo-Fi', 'Dreamy']",240496296,Become,N/A,255000.0,66111.0,2023,1.9034602374005998,172
+Cherry Talk,tripleS,2023,tripleS,62356708,418875,[],62356708,+(KR)ystal Eyes <AESTHETIC>,N/A,171000.0,63977.0,2023,15.273530289465832,173
+Invincible,tripleS,2023,tripleS,62356708,418875,[],62356708,EVOLution <⟡>,N/A,197000.0,60842.0,2023,14.525096985974336,174
+Behind The Curtain,MISAMO,2023,MISAMO,18378221,333438,"['j-pop', 'japanese', 'twice', 'sana', 'mina']",18378221,MISAMO,N/A,178000.0,60832.0,2023,18.243871424372745,175
+MACARONI CHEESE,YOUNG POSSE,2023,YOUNG POSSE,7197289,167651,"['k-pop', 'Korean', 'Hip-Hop', 'Kpop', 'DSP Media']",7197289,MACARONI CHEESE,N/A,145000.0,59352.0,2023,35.40211510817114,176
+Become,Beach House,2023,Beach House,240496296,3473201,"['dream pop', 'indie pop', 'indie', 'Lo-Fi', 'Dreamy']",240496296,Become,N/A,358000.0,58164.0,2023,1.674651135940592,177
+Nothing Left To Lose,Everything But the Girl,2023,Everything But the Girl,23673330,1418862,"['electronic', 'trip-hop', 'chillout', 'female vocalists', 'electronica']",23673330,Fuse,N/A,224000.0,57010.0,2023,4.018008798600568,178
+Video Game,HeeJin,2023,HeeJin,5180379,102539,"['Loona', 'Korean', 'artms', 'k-pop', 'Kpop']",5180379,<K>,N/A,187000.0,56631.0,2023,55.22874223466193,179
+When I Get There,P!nk,2023,P!nk,122141424,3731132,"['pop', 'pop rock', 'female vocalists', 'rock', 'female']",122141424,TRUSTFALL [Clean],N/A,200000.0,55980.0,2023,1.500348955759271,180
+Regret It,Exo,2023,Exo,165379088,1033112,"['k-pop', 'exo', 'Korean', 'Kpop', 'exo-k']",165379088,EXIST,N/A,175000.0,55531.0,2023,5.375119057759468,181
+Like We Just Met,NCT DREAM,2023,NCT DREAM,113091553,673600,"['k-pop', 'Korean', 'NCT', 'pop', 'nct dream']",113091553,INFJ,N/A,210000.0,53792.0,2023,7.985748218527316,182
+We Go,aespa,2023,aespa,261579027,1296200,"['k-pop', 'Kpop', 'Korean', 'pop', 'hyperpop']",261579027,포켓몬스터 (2023),N/A,188000.0,52261.0,2023,4.031862366918686,183
+POSSE UP!,YOUNG POSSE,2023,YOUNG POSSE,7197289,167651,"['k-pop', 'Korean', 'Hip-Hop', 'Kpop', 'DSP Media']",7197289,MACARONI CHEESE,N/A,138000.0,48473.0,2023,28.913039588192134,184
+Groovy,CRAVITY,2023,CRAVITY,12706890,166640,"['k-pop', 'Kpop', 'Korean', 'pop', 'Hip-Hop']",12706890,MASTER : PIECE,N/A,202000.0,42489.0,2023,25.497479596735477,185
+Midnight Dreams,Ellie Goulding,2023,Ellie Goulding,150866337,3907039,"['electronic', 'female vocalists', 'british', 'indie', 'indie pop']",150866337,Higher Than Heaven (Deluxe) [Clean],N/A,193000.0,40291.0,2023,1.031241305756098,186
+Addiction,HeeJin,2023,HeeJin,5180379,102539,"['Loona', 'Korean', 'artms', 'k-pop', 'Kpop']",5180379,K,N/A,159000.0,39929.0,2023,38.940305639805345,187
+Rhodanthe,tripleS,2023,tripleS,62356708,418875,[],62356708,EVOLution <⟡>,N/A,227000.0,37746.0,2023,9.011280214861236,188
+Above Me,Leisure,2023,Leisure,7387107,513878,"['indie pop', 'indie', 'electronic', 'downtempo', 'New Zealand']",7387107,Above Me,N/A,214000.0,35028.0,2023,6.816403893531149,189
+toxic,Noname,2023,Noname,17797848,572338,"['Hip-Hop', 'rap', 'hip hop', 'Ghetto Sage', 'jazz rap']",17797848,Sundial,N/A,194000.0,33953.0,2023,5.932333690930883,190
+The Hype,Sigrid,2023,Sigrid,20803710,653738,"['pop', 'norwegian', 'synthpop', 'electropop', 'electronic']",20803710,The Hype,N/A,214000.0,28733.0,2023,4.395185838975247,191
+Back In Love,Leisure,2023,Leisure,7387107,513878,"['indie pop', 'indie', 'electronic', 'downtempo', 'New Zealand']",7387107,Back In Love,N/A,281000.0,24561.0,2023,4.779539112396328,192
+OTB,YOUNG POSSE,2023,YOUNG POSSE,7197289,167651,"['k-pop', 'Korean', 'Hip-Hop', 'Kpop', 'DSP Media']",7197289,MACARONI CHEESE,N/A,168000.0,23253.0,2023,13.86988446236527,193
+jamcod,The Jesus and Mary Chain,2023,The Jesus and Mary Chain,40001881,1316379,"['shoegaze', 'post-punk', 'alternative', 'indie', 'rock']",40001881,jamcod,N/A,237000.0,22649.0,2023,1.7205531233786013,194
+All The Good Times Never Die,Leisure,2023,Leisure,7387107,513878,"['indie pop', 'indie', 'electronic', 'downtempo', 'New Zealand']",7387107,N/A,N/A,0.0,20273.0,2023,3.9450998096824534,195
+Always,Leisure,2023,Leisure,7387107,513878,"['indie pop', 'indie', 'electronic', 'downtempo', 'New Zealand']",7387107,Always,N/A,207000.0,19953.0,2023,3.882828219927687,196
+Ghost,Sigrid,2023,Sigrid,20803710,653738,"['pop', 'norwegian', 'synthpop', 'electropop', 'electronic']",20803710,Ghost,N/A,213000.0,17084.0,2023,2.613279325968507,197
+Satama,KUUMAA,2023,KUUMAA,3716352,33363,"['finnish', 'pop', 'male vocalists', 'finland', 'kuumaa']",3716352,Satama,N/A,160000.0,10506.0,2023,31.489973923208343,198
+Missio,Bess,2023,Bess,1364240,37698,"['finnish', 'pop', 'finland', 'dance', 'Hip-Hop']",1364240,Missio,N/A,159000.0,7740.0,2023,20.53159318796753,199
+Love it,Younite,2023,Younite,1212340,33859,"['k-pop', 'Korean', 'pop', 'boybands', 'korean music']",1212340,BIT Part.2,N/A,202000.0,7081.0,2023,20.913198854071297,200
+BIRDS OF A FEATHER,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,183000.0,2164192.0,2024,52.05620609349947,1
+Espresso,Sabrina Carpenter,2024,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Espresso,N/A,175000.0,2117640.0,2024,66.75413217799841,2
+"Good Luck, Babe!",Chappell Roan,2024,Chappell Roan,323368999,2504682,"['pop', 'indie pop', 'synthpop', 'electropop', 'queer']",323368999,"Good Luck, Babe!",N/A,218000.0,2029664.0,2024,81.03479803024895,3
+Die with a Smile,Lady Gaga,2024,Lady Gaga,1011759640,7632370,"['pop', 'dance', 'electronic', 'female vocalists', 'female vocalist']",1011759640,Die with a Smile,N/A,251000.0,1733345.0,2024,22.710442496891527,4
+Please Please Please,Sabrina Carpenter,2024,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Please Please Please,N/A,186000.0,1682762.0,2024,53.04552094412316,5
+360,Charli xcx,2024,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,BRAT,N/A,130000.0,1582875.0,2024,42.72629313253539,6
+LUNCH,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,179000.0,1551491.0,2024,37.31865529870252,7
+Taste,Sabrina Carpenter,2024,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Short n' Sweet [Clean] [Clean],N/A,156000.0,1502778.0,2024,47.371905161494915,8
+CHIHIRO,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,303000.0,1499319.0,2024,36.063740584892436,9
+Apple,Charli xcx,2024,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,BRAT,N/A,151000.0,1401866.0,2024,37.840345983438276,10
+Von dutch,Charli xcx,2024,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,Von dutch,N/A,164000.0,1400325.0,2024,37.79875001552088,11
+we can't be friends (wait for your love),Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,227000.0,1354736.0,2024,30.74700271783844,12
+Too Sweet,Hozier,2024,Hozier,276486848,3294111,"['blues', 'indie', 'soul', 'singer-songwriter', 'irish']",276486848,Unheard,N/A,251000.0,1343109.0,2024,40.7730340598723,13
+Bed Chem,Sabrina Carpenter,2024,Sabrina Carpenter,627272775,3172298,"['pop', 'female vocalists', 'rnb', 'american', 'my top songs']",627272775,Short n' Sweet [Clean] [Clean],N/A,171000.0,1228218.0,2024,38.71698056109483,14
+Saturn,SZA,2024,SZA,575399022,3438127,"['rnb', 'soul', 'alternative rnb', 'electronic', 'Neo-Soul']",575399022,Saturn,N/A,186000.0,1167427.0,2024,33.955319277036594,15
+"yes, and?",Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,"yes, and?",N/A,214000.0,1106045.0,2024,25.10272748421214,16
+euphoria,Kendrick Lamar,2024,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,euphoria,N/A,384000.0,1062131.0,2024,21.1419841554202,17
+the boy is mine,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine (slightly deluxe),N/A,173000.0,1028355.0,2024,23.339480149566224,18
+NOID,"Tyler, The Creator",2024,"Tyler, The Creator",1027180546,4255100,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",1027180546,Noid,N/A,283000.0,1008752.0,2024,23.706892904984606,19
+THE GREATEST,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,293000.0,995922.0,2024,23.95532415102273,20
+CARNIVAL,¥$,2024,¥$,78492978,1449765,"['Hip-Hop', 'rap', 'hip hop', 'Kanye West', 'trap']",78492978,VULTURES 1,N/A,264000.0,985395.0,2024,67.96929157484144,21
+SKINNY,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,219000.0,985051.0,2024,23.693839487720012,22
+L’AMOUR DE MA VIE,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,N/A,N/A,305000.0,984952.0,2024,23.691458199736662,23
+Magnetic,ILLIT,2024,ILLIT,84387757,1111486,"['k-pop', 'Kpop', 'Korean', 'girl group', 'pop']",84387757,SUPER REAL ME,N/A,160000.0,947944.0,2024,85.28618444136949,24
+THE DINER,Billie Eilish,2024,Billie Eilish,816132082,4157414,"['pop', 'indie pop', 'electropop', 'art pop', 'alternative']",816132082,HIT ME HARD AND SOFT,N/A,186000.0,897217.0,2024,21.581131924797482,25
+CRAZY,LE SSERAFIM,2024,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,CRAZY,N/A,164000.0,871520.0,2024,53.90090748120006,26
+intro (end of the world),Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine (slightly deluxe),N/A,92000.0,859750.0,2024,19.512831715302166,27
+Judge Judy,"Tyler, The Creator",2024,"Tyler, The Creator",1027180546,4255100,"['Hip-Hop', 'rap', 'ofwgkta', 'underground hip-hop', 'swag']",1027180546,Chromakopia,N/A,269000.0,789702.0,2024,18.558952786068485,28
+supernatural,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,163000.0,785315.0,2024,17.82345965513524,29
+bye,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,164000.0,782407.0,2024,17.75745987074664,30
+I Can Do It with a Broken Heart,Taylor Swift,2024,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,THE TORTURED POETS DEPARTMENT,N/A,218000.0,776999.0,2024,13.251424529970343,31
+Training Season,Dua Lipa,2024,Dua Lipa,314803417,3224232,"['pop', 'synthpop', 'electropop', 'british', 'female vocalists']",314803417,Training Season,N/A,209000.0,772608.0,2024,23.962543638298982,32
+make you mine,Madison Beer,2024,Madison Beer,105326464,1638084,"['pop', 'female vocalists', 'rnb', 'indie', 'my top songs']",105326464,Make You Mine,N/A,221000.0,753591.0,2024,46.00441735588651,33
+BANDIT,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,Bandit,N/A,147000.0,740899.0,2024,30.354723425036763,34
+TEXAS HOLD 'EM,Beyoncé,2024,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,TEXAS HOLD ’EM,N/A,233000.0,722804.0,2024,11.432597083217079,35
+So I,Charli xcx,2024,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,BRAT,N/A,217000.0,718379.0,2024,19.39109009508498,36
+It's ok I'm ok,Tate McRae,2024,Tate McRae,268753947,2217123,"['pop', 'my top songs', 'Canadian', 'electropop', 'canada']",268753947,it's ok i'm ok,N/A,156000.0,687159.0,2024,30.993273715531345,37
+NEW DROP,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,217000.0,686367.0,2024,28.120540658135866,38
+I think about it all the time,Charli xcx,2024,Charli xcx,697501352,3704686,"['pop', 'synthpop', 'electronic', 'female vocalists', 'Electroclash']",697501352,BRAT,N/A,143000.0,661648.0,2024,17.859759234655783,39
+Houdini,Eminem,2024,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,Houdini,N/A,227000.0,653163.0,2024,8.454061635309019,40
+BURN,¥$,2024,¥$,78492978,1449765,"['Hip-Hop', 'rap', 'hip hop', 'Kanye West', 'trap']",78492978,VULTURES 1,N/A,111000.0,635704.0,2024,43.84876169586106,41
+don't wanna break up again,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine (slightly deluxe),N/A,174000.0,633815.0,2024,14.385025220859834,42
+The Tortured Poets Department,Taylor Swift,2024,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,THE TORTURED POETS DEPARTMENT,N/A,293000.0,620566.0,2024,10.583518788139465,43
+one of wun,Gunna,2024,Gunna,176439461,1779003,"['rap', 'trap', 'Hip-Hop', 'hip hop', 'atlanta']",176439461,N/A,N/A,0.0,616907.0,2024,34.6771197125581,44
+i wish i hated you,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,153000.0,600641.0,2024,13.632110211469392,45
+FIELD TRIP,¥$,2024,¥$,78492978,1449765,"['Hip-Hop', 'rap', 'hip hop', 'Kanye West', 'trap']",78492978,VULTURES 2,N/A,167000.0,582573.0,2024,40.18396084882722,46
+TORE UP,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,126000.0,582180.0,2024,23.8519864159459,47
+true story,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,163000.0,566858.0,2024,12.865373376531267,48
+EASY,LE SSERAFIM,2024,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,EASY,N/A,164000.0,562173.0,2024,34.768720008064854,49
+If We Being Rëal,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,2093,N/A,172000.0,541855.0,2024,34.22670839820988,50
+tough,Quavo,2024,Quavo,29938236,1254226,"['rap', 'Hip-Hop', 'trap', 'atlanta', 'migos']",29938236,N/A,N/A,189000.0,538498.0,2024,42.93468641217771,51
+Saturn Returns Interlude,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine [Clean] [Clean],N/A,42000.0,516740.0,2024,11.727898412986615,52
+née-nah,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,220000.0,515123.0,2024,22.67259739956787,53
+Neverender,Justice,2024,Justice,102729718,2784566,"['electronic', 'french', 'electro', 'dance', 'electronica']",102729718,N/A,N/A,0.0,510166.0,2024,18.321203376037772,54
+HISS,Megan Thee Stallion,2024,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,HISS,N/A,192000.0,499069.0,2024,21.905179924637284,55
+Slow It Down,Benson Boone,2024,Benson Boone,44423716,1456781,"['pop', 'rock', 'pop rock', 'my top songs', 'singer-songwriter']",44423716,Slow It Down,N/A,161000.0,498914.0,2024,34.247700924160874,56
+Lithonia,Childish Gambino,2024,Childish Gambino,319453833,3744860,"['Hip-Hop', 'rap', 'hip hop', 'indie', 'underground hip-hop']",319453833,Lithonia,N/A,229000.0,487979.0,2024,13.030633988987573,57
+I LUV IT (feat. Playboi Carti),Camila Cabello,2024,Camila Cabello,127125500,2365581,"['pop', 'female vocalists', 'cuba', 'dance', 'cuban']",127125500,I LUV IT (feat. Playboi Carti),N/A,174000.0,482122.0,2024,20.38070140062843,58
+prove it,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,207000.0,445698.0,2024,19.616928997137773,59
+BODYGUARD,Beyoncé,2024,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,COWBOY CARTER,N/A,240000.0,426296.0,2024,6.742727497616377,60
+all of me,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,198000.0,418397.0,2024,18.415304178200156,61
+luther,Kendrick Lamar,2024,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,GNX,N/A,176000.0,418218.0,2024,8.324734264899082,62
+16 CARRIAGES,Beyoncé,2024,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,16 CARRIAGES,N/A,227000.0,416331.0,2024,6.585111006929748,63
+Family Matters,Drake,2024,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,Family Matters,N/A,457000.0,410883.0,2024,6.181786340861463,64
+LIL DEMON,Future,2024,Future,449794315,3171840,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'atlanta']",449794315,MIXTAPE PLUTO,N/A,139000.0,405682.0,2024,12.790115516545603,65
+Lucky Girl Syndrome,ILLIT,2024,ILLIT,84387757,1111486,"['k-pop', 'Kpop', 'Korean', 'girl group', 'pop']",84387757,SUPER REAL ME,N/A,140000.0,388697.0,2024,34.9709308079454,66
+II MOST WANTED,Beyoncé,2024,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,COWBOY CARTER,N/A,208000.0,385885.0,2024,6.103546363131945,67
+Bling-Bang-Bang-Born,Creepy Nuts,2024,Creepy Nuts,20330470,589577,"['japanese', 'j-pop', 'Hip-Hop', 'japan', 'jersey club']",20330470,Bling-Bang-Bang-Born,N/A,169000.0,375305.0,2024,63.656655534391604,68
+Goddess,Laufey,2024,Laufey,246922075,2268345,"['jazz', 'Bossa Nova', 'pop', 'female vocalists', 'jazz pop']",246922075,Goddess,N/A,267000.0,373799.0,2024,16.47893067412585,69
+BROTHER STONE (FEAT. KODAK BLACK),Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,TOP HITS - Vol. 3,N/A,202000.0,366828.0,2024,15.028988410781205,70
+Number 2,Lil Tecca,2024,Lil Tecca,156441639,1742450,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'new york']",156441639,Number 2 / Never Last - Single,N/A,137000.0,363265.0,2024,20.847943986914977,71
+tv off,Kendrick Lamar,2024,Kendrick Lamar,1010480682,5023800,"['Hip-Hop', 'rap', 'west coast', 'hip hop', 'compton']",1010480682,GNX,N/A,221000.0,342880.0,2024,6.8251124646681784,72
+Kitchen,SZA,2024,SZA,575399022,3438127,"['rnb', 'soul', 'alternative rnb', 'electronic', 'Neo-Soul']",575399022,SOS Deluxe: LANA,N/A,172000.0,342161.0,2024,9.951959308076752,73
+KRYPTONITE,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,182000.0,322110.0,2024,13.196886434505364,74
+sneaky,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,201000.0,320386.0,2024,14.101453032495058,75
+act ii: date @ 8 (feat. Drake) - remix,4batz,2024,4batz,13654557,662805,"['rnb', 'rap', 'soul', 'hip hop', 'Hip-Hop']",13654557,act ii: date @ 8 (feat. Drake) [remix],N/A,231000.0,311446.0,2024,46.98908427063767,76
+No Face,Drake,2024,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,No Face - Single,N/A,137000.0,304367.0,2024,4.579239742722335,77
+should've wore a bonnet,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,186000.0,304126.0,2024,13.38578622336991,78
+Hate Me,Lil Yachty,2024,Lil Yachty,129785469,1783282,"['trap', 'rap', 'Hip-Hop', 'hip hop', 'Psychedelic Rock']",129785469,N/A,N/A,0.0,297488.0,2024,16.68205028705499,79
+ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,Timeless Rap Hits,N/A,161000.0,290962.0,2024,11.920749032183261,80
+ALLIIGATOR TEARS,Beyoncé,2024,Beyoncé,686725671,6322308,"['rnb', 'pop', 'female vocalists', 'soul', 'Hip-Hop']",686725671,COWBOY CARTER,N/A,179000.0,283353.0,2024,4.4817968374840325,81
+"I'M HIS, HE'S MINE (feat. Doechii)",Katy Perry,2024,Katy Perry,429941777,7048299,"['pop', 'female vocalists', 'pop rock', 'indie', 'rock']",429941777,"I'M HIS, HE'S MINE (feat. Doechii)",N/A,198000.0,276990.0,2024,3.929884359332656,82
+BOA,Megan Thee Stallion,2024,Megan Thee Stallion,180442161,2278315,"['rap', 'Hip-Hop', 'trap', 'hip hop', 'american']",180442161,BOA,N/A,154000.0,275654.0,2024,12.099029326497872,83
+DASH,NMIXX,2024,NMIXX,82438333,722228,"['k-pop', 'pop', 'Korean', 'Kpop', 'nmixx']",82438333,Fe3O4: BREAK,N/A,164000.0,266022.0,2024,36.833520716449655,84
+Circadian Rhythm,Drake,2024,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,100 Gigs - Single,N/A,126000.0,265870.0,2024,4.000047542596888,85
+Huntin’ Wabbitz,J. Cole,2024,J. Cole,298561920,3807253,"['Hip-Hop', 'rap', 'hip hop', 'North Carolina', 'underground hip-hop']",298561920,Might Delete Later,N/A,162000.0,255676.0,2024,6.715498024428637,86
+Sadness As A Gift,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,259000.0,254484.0,2024,19.332724573779682,87
+feelslikeimfallinginlove,Coldplay,2024,Coldplay,772721635,9019488,"['rock', 'alternative', 'britpop', 'alternative rock', 'indie']",772721635,feelslikeimfallinginlove,N/A,237000.0,244180.0,2024,2.707249014578211,88
+Swan Song,LE SSERAFIM,2024,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,EASY,N/A,157000.0,243015.0,2024,15.029751504892408,89
+DEEP IN THE WATER,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,Deep In The Water,N/A,170000.0,242819.0,2024,9.948324383409886,90
+red sky,21 Savage,2024,21 Savage,215988841,2272007,"['trap', 'Hip-Hop', 'rap', 'hip hop', 'atlanta']",215988841,american dream,N/A,176000.0,236406.0,2024,10.40516160381548,91
+Addicted,zerb,2024,zerb,3923016,383706,"['electronic', 'House', 'acid house', 'brazil', 'EDM']",3923016,Addicted,N/A,152000.0,231712.0,2024,60.3879011534873,92
+Black&Blue,Vince Staples,2024,Vince Staples,87241556,1394593,"['Hip-Hop', 'rap', 'hip hop', 'underground hip-hop', 'Gangsta Rap']",87241556,Dark Times,N/A,198000.0,229349.0,2024,16.4455866335196,93
+BLACK FLAG FREESTYLE (with That Mexican OT),Denzel Curry,2024,Denzel Curry,152554741,1606417,"['Hip-Hop', 'rap', 'hip hop', 'Southern Hip Hop', 'trap']",152554741,KING OF THE MISCHIEVOUS SOUTH (Spotify),N/A,0.0,226294.0,2024,14.086877815660568,94
+BACKSTREETS (FEAT. TEEZO TOUCHDOWN),Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,N/A,N/A,0.0,223352.0,2024,9.150758992020249,95
+PAPERWORK,¥$,2024,¥$,78492978,1449765,"['Hip-Hop', 'rap', 'hip hop', 'Kanye West', 'trap']",78492978,VULTURES 1,N/A,145000.0,219189.0,2024,15.11893306846282,96
+What I Want (feat. Tate McRae),Morgan Wallen,2024,Morgan Wallen,87700334,962514,"['country', 'country pop', 'contemporary country', 'the voice', 'bro-country']",87700334,N/A,N/A,0.0,217348.0,2024,22.58128193460043,97
+5 TO 10,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,193000.0,216394.0,2024,8.86568887370263,98
+ORCHESTRATË,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,173000.0,213965.0,2024,13.51527191300805,99
+Alone,The Cure,2024,The Cure,387847216,5427832,"['post-punk', 'new wave', 'alternative', '80s', 'rock']",387847216,"2022-11-06: Arena de Genève, Geneva, Switzerland",N/A,437000.0,208467.0,2024,3.8407047233591602,100
+PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN),Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,Soft R'n'B Vibes,N/A,207000.0,201640.0,2024,8.261215673694272,101
+FASTER n HARDER,6arelyhuman,2024,6arelyhuman,22290394,616941,"['scenecore', 'american', 'Rave', 'Scene', 'pop']",22290394,Faster n Harder - Single,N/A,123000.0,201501.0,2024,32.66130796948168,102
+empty out your pockets,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,The Party Never Ends (Spotify),N/A,135000.0,198466.0,2024,8.1072480593397,103
+Girls Never Die,tripleS,2024,tripleS,62356708,418875,[],62356708,assemble24,N/A,224000.0,195018.0,2024,46.55756490599821,104
+PROBLEMATIC,¥$,2024,¥$,78492978,1449765,"['Hip-Hop', 'rap', 'hip hop', 'Kanye West', 'trap']",78492978,VULTURES 1,N/A,194000.0,194071.0,2024,13.386376412728959,105
+Deeper Well,Kacey Musgraves,2024,Kacey Musgraves,66170655,1126865,"['country', 'female vocalists', 'pop', 'singer-songwriter', 'contemporary country']",66170655,Deeper Well,N/A,232000.0,193670.0,2024,17.186619515203684,106
+GLOCK,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,228000.0,192410.0,2024,7.883061435109676,107
+Uuugly,Drake,2024,Drake,1128317449,6646671,"['Hip-Hop', 'rap', 'rnb', 'hip hop', 'Canadian']",1128317449,"C,XOXO [Explicit]",N/A,115000.0,188526.0,2024,2.836397348386884,108
+J CHRIST,Lil Nas X,2024,Lil Nas X,114675990,2616138,"['Hip-Hop', 'rap', 'pop', 'country rap', 'trap']",114675990,J CHRIST,N/A,153000.0,187525.0,2024,7.168008721252472,109
+Geek timë,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,170000.0,186953.0,2024,11.809037132019695,110
+Free Treasure,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,215000.0,186439.0,2024,14.16345953698822,111
+4X4,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,202000.0,183467.0,2024,7.516665621928522,112
+MEOW,Meovv,2024,Meovv,10475424,290528,"['k-pop', 'Korean', 'pop', 'Kpop', 'Girl Groups']",10475424,MEOW,N/A,172000.0,181971.0,2024,62.634582553144625,113
+A Fragile Thing,The Cure,2024,The Cure,387847216,5427832,"['post-punk', 'new wave', 'alternative', '80s', 'rock']",387847216,Lonely Night,N/A,288000.0,180989.0,2024,3.3344620835722254,114
+Love Somebody,Morgan Wallen,2024,Morgan Wallen,87700334,962514,"['country', 'country pop', 'contemporary country', 'the voice', 'bro-country']",87700334,Love Somebody,N/A,203000.0,177973.0,2024,18.49043234695807,115
+Real House,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,358000.0,170965.0,2024,12.987925593578547,116
+Fool,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,174000.0,170295.0,2024,12.937026812262504,117
+We got so much,LE SSERAFIM,2024,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,EASY,N/A,165000.0,167797.0,2024,10.377742992269742,118
+Vampire Empire,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,235000.0,165635.0,2024,12.583014392959862,119
+LIFETIMES,Katy Perry,2024,Katy Perry,429941777,7048299,"['pop', 'female vocalists', 'pop rock', 'indie', 'rock']",429941777,143 [Explicit],N/A,192000.0,165175.0,2024,2.343473226660787,120
+No Machine,Adrianne Lenker,2024,Adrianne Lenker,110516464,1316338,"['singer-songwriter', 'indie folk', 'folk', 'female vocalists', 'indie']",110516464,Bright Future,N/A,180000.0,165143.0,2024,12.545637974441215,121
+Lose My Breath (Feat. Charlie Puth),Stray Kids,2024,Stray Kids,477369907,1324476,"['k-pop', 'pop', 'Korean', 'Kpop', 'Hip-Hop']",477369907,Lose My Breath (feat. Charlie Puth) - Single,N/A,166000.0,161953.0,2024,12.22770363524896,122
+Pretty Slowly,Benson Boone,2024,Benson Boone,44423716,1456781,"['pop', 'rock', 'pop rock', 'my top songs', 'singer-songwriter']",44423716,Pretty Slowly,N/A,261000.0,157838.0,2024,10.834710227549646,123
+INSIDE (FEAT. TRAVIS SCOTT),Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,N/A,N/A,0.0,157776.0,2024,6.464102182765262,124
+Gen Z Luv,Central Cee,2024,Central Cee,56801567,1291071,"['rap', 'drill', 'Hip-Hop', 'hip hop', 'UK Drill']",56801567,gen z luv - Single,N/A,153000.0,156399.0,2024,12.113896137392908,125
+Étouffée,Vince Staples,2024,Vince Staples,87241556,1394593,"['Hip-Hop', 'rap', 'hip hop', 'underground hip-hop', 'Gangsta Rap']",87241556,Dark Times,N/A,268000.0,156107.0,2024,11.193731791282474,126
+Classical,Vampire Weekend,2024,Vampire Weekend,178096588,3414862,"['indie', 'indie rock', 'indie pop', 'alternative', 'rock']",178096588,Only God Was Above Us,N/A,259000.0,153865.0,2024,4.505745766593203,127
+Walk Like This,FLO,2024,FLO,31205781,556051,"['rnb', 'pop', 'soul', 'dubstep', 'UK']",31205781,Walk Like This,N/A,197000.0,152913.0,2024,27.499815664390496,128
+Take Me to the Beach (feat. Ado),Imagine Dragons,2024,Imagine Dragons,248712871,4021563,"['indie', 'indie rock', 'alternative', 'rock', 'indie pop']",248712871,Take Me to the Beach (feat. Ado) - Single,N/A,167000.0,151114.0,2024,3.757593751484187,129
+Trouble,Laufey,2024,Laufey,246922075,2268345,"['jazz', 'Bossa Nova', 'pop', 'female vocalists', 'jazz pop']",246922075,Bewitched: The Goddess Edition [Explicit],N/A,171000.0,146293.0,2024,6.44932759346572,130
+Would You Fall in Love with Me Again,Jorge Rivera-Herrans,2024,Jorge Rivera-Herrans,69544713,316565,"['musical', 'epic', 'puerto rico', 'electronic', 'strings']",69544713,EPIC: The Ithaca Saga (Official Concept Album) - EP,N/A,345000.0,146224.0,2024,46.19082968742596,131
+All My Love,Coldplay,2024,Coldplay,772721635,9019488,"['rock', 'alternative', 'britpop', 'alternative rock', 'indie']",772721635,Moon Music (Full Moon Edition),N/A,222000.0,143450.0,2024,1.5904450452176442,132
+Passionfruit,NMIXX,2024,NMIXX,82438333,722228,"['k-pop', 'pop', 'Korean', 'Kpop', 'nmixx']",82438333,Fe3O4: BREAK,N/A,161000.0,139452.0,2024,19.308583992866517,133
+Trae The Truth in Ibiza,J. Cole,2024,J. Cole,298561920,3807253,"['Hip-Hop', 'rap', 'hip hop', 'North Carolina', 'underground hip-hop']",298561920,Might Delete Later,N/A,255000.0,139306.0,2024,3.6589635624425276,134
+Lies Lies Lies,Morgan Wallen,2024,Morgan Wallen,87700334,962514,"['country', 'country pop', 'contemporary country', 'the voice', 'bro-country']",87700334,Lies Lies Lies,N/A,116000.0,136560.0,2024,14.187845579388975,135
+Britpop,A. G. Cook,2024,A. G. Cook,16926038,479394,"['bubblegum bass', 'electronic', 'pc music', 'pop', 'hyperpop']",16926038,Britpop,N/A,201000.0,136066.0,2024,28.382916765750092,136
+Heard of Më,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,153000.0,135173.0,2024,8.538311641142418,137
+Misfit,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,The Party Never Ends (Spotify),N/A,159000.0,134742.0,2024,5.504150927673001,138
+Guilty Conscience 2,Eminem,2024,Eminem,561177490,7726026,"['rap', 'Hip-Hop', 'hip hop', 'Eminem', 'pop']",561177490,The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition [Clean] [Clean],N/A,325000.0,131878.0,2024,1.7069318689841322,139
+CRAZY (English ver.),LE SSERAFIM,2024,LE SSERAFIM,296166634,1616893,"['k-pop', 'Kpop', 'Korean', 'pop', 'female vocalists']",296166634,CRAZY (Party Remixes 1),N/A,164000.0,131427.0,2024,8.128367183233523,140
+Bë Quiet (feat. Kodak Black),Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,N/A,N/A,0.0,129998.0,2024,8.211428589475943,141
+STFU,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,104000.0,129046.0,2024,8.15129474113073,142
+Bobby Sox,Green Day,2024,Green Day,438568755,6520124,"['punk rock', 'rock', 'punk', 'pop punk', 'alternative']",438568755,Saviors [Explicit],N/A,224000.0,126201.0,2024,1.9355613482197578,143
+Life Is,Jessica Pratt,2024,Jessica Pratt,12641257,483277,"['folk', 'singer-songwriter', 'female vocalists', 'acoustic', 'psychedelic folk']",12641257,Here In The Pitch,N/A,188000.0,125374.0,2024,25.942471915692245,144
+PAIDNFULL,Lucki,2024,Lucki,283254620,1135578,[],283254620,PAIDNFULL / COLORFUL DRUGS - Single,N/A,119000.0,123524.0,2024,10.877632359908345,145
+唱,Ado,2024,Ado,76792017,673135,"['j-pop', 'japanese', 'pop', 'female vocalists', 'utaite']",76792017,唱,N/A,200000.0,116478.0,2024,17.303809785555647,146
+The Party Never Ends,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,The Party Never Ends 2.0 [Clean] [Clean],N/A,140000.0,111350.0,2024,4.548598104498884,147
+Insecurities,Lil Baby,2024,Lil Baby,165257183,1592233,"['rap', 'Hip-Hop', 'hip hop', 'trap', 'atlanta']",165257183,Insecurities,N/A,127000.0,108313.0,2024,6.802584797576737,148
+LAST LAUGH,Don Toliver,2024,Don Toliver,255139710,2440803,"['rap', 'trap', 'Hip-Hop', 'rnb', 'texas']",255139710,HARDSTONE PSYCHO [Clean] [Clean],N/A,241000.0,106494.0,2024,4.3630723167744385,149
+Gone 4 a min,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,135000.0,105978.0,2024,6.694185903286833,150
+La noia,Angelina Mango,2024,Angelina Mango,3984527,121696,"['pop', 'italian', 'urban', 'dance pop', 'electropop']",3984527,La noia - Single,N/A,189000.0,104138.0,2024,85.57224559558243,151
+They tell më,Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,LYFESTYLE,N/A,173000.0,102970.0,2024,6.504183155574225,152
+Party By Myself,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,The Party Never Ends (Spotify),N/A,198000.0,98553.0,2024,4.025846331321765,153
+Worst Way,Riley Green,2024,Riley Green,6897599,207731,"['country', 'american', 'contemporary country', 'Alabama', 'modern country rock']",6897599,Way Out Here,N/A,220000.0,98541.0,2024,47.436829361048666,154
+go2work (feat. Summrs),Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,N/A,N/A,0.0,96154.0,2024,6.073645014480761,155
+I Never Lie,Zach Top,2024,Zach Top,5027488,140922,"['country', 'USA', 'beer', 'new traditionalist', 'modern country']",5027488,I Never Lie (Live from the Ryman),N/A,228000.0,93982.0,2024,66.69079348859654,156
+PHAT,DaBaby,2024,DaBaby,54055455,1466801,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'american']",54055455,HOW TF IS THIS A MIXTAPE? [Clean] [Clean],N/A,129000.0,92067.0,2024,6.276720564002888,157
+Cuffed,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,The Party Never Ends (Spotify),N/A,244000.0,91345.0,2024,3.7314027288320664,158
+Mayday,Three Days Grace,2024,Three Days Grace,182135591,3836042,"['alternative rock', 'rock', 'hard rock', 'alternative', 'metal']",182135591,Mayday,N/A,203000.0,86013.0,2024,2.24223300996183,159
+The Future Is A Foreign Land,Ghost,2024,Ghost,155218523,1615258,"['heavy metal', 'Psychedelic Rock', 'doom metal', 'psychedelic', 'Progressive rock']",155218523,The Future Is A Foreign Land,N/A,225000.0,85439.0,2024,5.289495548079626,160
+Rodrick Rules,Malcolm Todd,2024,Malcolm Todd,73140615,1128902,"['alternative rnb', 'indie', 'USA', 'indie rock', 'los angeles']",73140615,Sweet Boy Pt. 1,N/A,183000.0,84840.0,2024,7.515267047095319,161
+Shhh!,VIVIZ,2024,VIVIZ,18272233,410954,"['k-pop', 'pop', 'Korean', 'Kpop', 'Gfriend']",18272233,Voyage,N/A,194000.0,82606.0,2024,20.101033205662922,162
+Am I Okay?,Megan Moroney,2024,Megan Moroney,13195100,289491,"['country', 'USA', 'georgia', 'modern country pop']",13195100,Am I Okay?,N/A,235000.0,82132.0,2024,28.371175615131385,163
+Condone It,Juice WRLD,2024,Juice WRLD,510546528,2448007,"['trap', 'rap', 'emo rap', 'Hip-Hop', 'pop']",510546528,Condone It,N/A,180000.0,82125.0,2024,3.354769818877152,164
+Lyfestyle (Feat. Lil Durk),Yeat,2024,Yeat,359683948,1583135,"['trap', 'rap', 'cloud rap', 'rage', 'plugg']",359683948,N/A,N/A,0.0,64566.0,2024,4.078363500270034,165
+Spot a Fake,Ava Max,2024,Ava Max,65946023,1558463,"['pop', 'electropop', 'female vocalists', 'american', 'USA']",65946023,Spot a Fake,N/A,167000.0,62885.0,2024,4.035065317559672,166
+I'm Free (feat. Rina Sawayama),Paris Hilton,2024,Paris Hilton,13239451,988302,"['pop', 'female vocalists', 'dance', 'sexy', 'american']",13239451,I'm Free (feat. Rina Sawayama),N/A,182000.0,60463.0,2024,6.117866805895364,167
+Girl!,L'Impératrice,2024,L'Impératrice,16238874,671145,"['french', 'synthpop', 'funk', 'electronic', 'france']",16238874,Pulsar,N/A,234000.0,59532.0,2024,8.870214335203272,168
+Ritual,The Devil Wears Prada,2024,The Devil Wears Prada,52340469,886307,"['metalcore', 'hardcore', 'Christian Metalcore', 'screamo', 'christian']",52340469,Ritual,N/A,223000.0,59239.0,2024,6.683801436748214,169
+Lugar Perfeito,Anitta,2024,Anitta,153086836,1189909,"['pop', 'brazilian', 'funk', 'dance', 'female vocalists']",153086836,Lugar Perfeito - Single,N/A,152000.0,57962.0,2024,4.87112880060576,170
+"Red light sign, but we go",NMIXX,2024,NMIXX,82438333,722228,"['k-pop', 'pop', 'Korean', 'Kpop', 'nmixx']",82438333,Fe3O4: STICK OUT - EP,N/A,137000.0,53104.0,2024,7.352802716039811,171
+Drown,Justin Timberlake,2024,Justin Timberlake,162437801,5473467,"['pop', 'rnb', 'dance', 'male vocalists', 'Hip-Hop']",162437801,Everything I Thought It Was,N/A,260000.0,52931.0,2024,0.9670470288758478,172
+Saint,DPR IAN,2024,DPR IAN,51315547,636640,"['Korean', 'rnb', 'live', 'k-rnb', 'pop']",51315547,SAINT - EP,N/A,179000.0,50693.0,2024,7.962584820306609,173
+No Angels,Justin Timberlake,2024,Justin Timberlake,162437801,5473467,"['pop', 'rnb', 'dance', 'male vocalists', 'Hip-Hop']",162437801,Everything I Thought It Was [Explicit],N/A,208000.0,47442.0,2024,0.8667632416528683,174
+Sounds Like the Radio,Zach Top,2024,Zach Top,5027488,140922,"['country', 'USA', 'beer', 'new traditionalist', 'modern country']",5027488,Sounds Like the Radio,N/A,218000.0,44870.0,2024,31.8403088233207,175
+I Ain't Sayin',Jordan Davis,2024,Jordan Davis,7415214,325601,"['country', 'american', 'pop', 'rock', 'United States']",7415214,I Ain’t Sayin’,N/A,174000.0,37863.0,2024,11.628649789159125,176
+Out of Time (feat. Bea Miller),Zedd,2024,Zedd,60584032,2556212,"['electro house', 'electronic', 'House', 'electro', 'dubstep']",60584032,Out of Time (feat. Bea Miller),N/A,222000.0,35524.0,2024,1.3897125903485315,177
+Looking For Knives,dyan,2024,dyan,456469,71295,[],456469,SXSW 2017 Showcasing Artists,N/A,373000.0,31672.0,2024,44.42387264184024,178
+Solitude,Joep Beving,2024,Joep Beving,9345866,721638,"['piano', 'contemporary classical', 'modern classical', 'neoclassical', 'post-classical']",9345866,Sleeping Lotus,N/A,226000.0,30388.0,2024,4.2109755860971845,179
+Sinners of the Seven Seas,Powerwolf,2024,Powerwolf,28962082,390304,"['Power metal', 'heavy metal', 'german', 'metal', 'vampire metal']",28962082,Wake Up The Wicked,N/A,183000.0,26720.0,2024,6.845945724358449,180
+Beyond the way,Giga,2024,Giga,4846749,189678,"['vocaloid', 'j-pop', 'japan', 'japanese', 'Kagamine Len']",4846749,Beyond the way,N/A,176000.0,25810.0,2024,13.607271270258018,181
+Paralyzed,Lenny Kravitz,2024,Lenny Kravitz,53377409,2947333,"['rock', 'funk', 'alternative', 'alternative rock', 'pop']",53377409,Blue Electric Light,N/A,268000.0,24862.0,2024,0.843542280427763,182
+Zombieland,Jake Bugg,2024,Jake Bugg,26746687,866692,"['folk', 'british', 'indie', 'singer-songwriter', 'alternative']",26746687,A Modern Day Distraction,N/A,162000.0,23357.0,2024,2.6949596857938,183
+Idle Hands,Kerry King,2024,Kerry King,436658,32658,"['thrash metal', 'metal', 'heavy metal', 'american', 'bad ass mother fucker']",436658,From Hell I Rise [Explicit],N/A,224000.0,21552.0,2024,65.99301855594342,184
+Wanting and Waiting,The Black Crowes,2024,The Black Crowes,15794484,864193,"['Southern Rock', 'blues rock', 'rock', 'hard rock', 'classic rock']",15794484,Wanting and Waiting,N/A,255000.0,18613.0,2024,2.1538012920724885,185
+Hot Fever Dream,Astrid S,2024,Astrid S,11446082,633079,"['pop', 'norwegian', 'female vocalists', 'electronic', 'Norway']",11446082,Hot Fever Dream,N/A,147000.0,15801.0,2024,2.4958970365467814,186
+Sex = Money,Käärijä,2024,Käärijä,12703005,303945,"['finnish', 'rap', 'Eurovision', 'electronic', 'pop']",12703005,Sex = Money - Single,N/A,175000.0,14858.0,2024,4.8883844116534245,187
+Step Into Your Power,Ray LaMontagne,2024,Ray LaMontagne,30036174,1506857,"['folk', 'singer-songwriter', 'acoustic', 'indie', 'Acoustic Rock']",30036174,Long Way Home,N/A,209000.0,14595.0,2024,0.9685723330083743,188
+Buon Giorno,Cristobal Tapia de Veer,2024,Cristobal Tapia de Veer,4832370,196151,"['All', 'ambient', 'electronic', 'experimental', 'psychedelic']",4832370,The White Lotus: Season 2 (Soundtrack from the HBO® Original Series),N/A,83000.0,14061.0,2024,7.168456954081294,189
+Love Insurrection,Primal Scream,2024,Primal Scream,27358263,1397702,"['rock', 'electronic', 'indie', 'alternative', 'britpop']",27358263,Come Ahead,N/A,380000.0,12693.0,2024,0.9081334934056045,190
+First To Go,Astrid S,2024,Astrid S,11446082,633079,"['pop', 'norwegian', 'female vocalists', 'electronic', 'Norway']",11446082,First To Go,N/A,173000.0,12037.0,2024,1.9013424864827297,191
+Two Hands,Astrid S,2024,Astrid S,11446082,633079,"['pop', 'norwegian', 'female vocalists', 'electronic', 'Norway']",11446082,Two Hands,N/A,182000.0,11790.0,2024,1.862326818611895,192
+Good Horses (feat. Miranda Lambert),Lainey Wilson,2024,Lainey Wilson,4367829,215913,"['country', 'country rock', 'rock', 'Olivia', 'USA']",4367829,N/A,N/A,0.0,9903.0,2024,4.586569590529519,193
+Myynnissä,Erika Vikman,2024,Erika Vikman,2768438,97192,"['pop', 'finnish', 'Eurovision', 'finland', 'female vocalists']",2768438,Myynnissä - Single,N/A,167000.0,8615.0,2024,8.863898263231542,194
+Life and Death,Balanescu Quartet,2024,Balanescu Quartet,955291,102519,"['contemporary classical', 'Avant-Garde', 'instrumental', 'Classical', 'strings']",955291,Maria T,N/A,573000.0,8315.0,2024,8.110691676664814,195
+Hollywood Freak,DaBaby,2024,DaBaby,54055455,1466801,"['Hip-Hop', 'rap', 'trap', 'hip hop', 'american']",54055455,HOW TF IS THIS A MIXTAPE?,N/A,123000.0,8199.0,2024,0.5589715305620871,196
+4x4xU,Lainey Wilson,2024,Lainey Wilson,4367829,215913,"['country', 'country rock', 'rock', 'Olivia', 'USA']",4367829,Whirlwind,N/A,239000.0,7604.0,2024,3.521788868664694,197
+ordinary things,Ariana Grande,2024,Ariana Grande,1079846196,4406075,"['pop', 'rnb', 'female vocalists', 'Ariana Grande', 'american']",1079846196,eternal sunshine,N/A,168000.0,6884.0,2024,0.15623882934357677,198
+HelloWorld.java,Nanowar of Steel,2024,Nanowar of Steel,1628950,61108,"['Power metal', 'heavy metal', 'parody', 'metal', 'the only true metal of steel']",1628950,XX Years of Steel [Explicit],N/A,238000.0,4189.0,2024,6.855076258427702,199
+Florida!!! (feat. Florence + the Machine),Taylor Swift,2024,Taylor Swift,3608500687,5863513,"['country', 'pop', 'female vocalists', 'singer-songwriter', 'acoustic']",3608500687,,,0.0,0.0,2024,0.0,200
