@@ -49,8 +49,10 @@ Y a-t-il une évolution des genres les plus écoutés sur la période ?
 
 1. **Clonage** :
    ```bash
-   git clone [https://github.com/votre-nom/ETL_analysis_LastFM.git](https://github.com/votre-nom/ETL_analysis_LastFM.git)
-   cd ETL_analysis_LastFM```
+   git clone *<repos URL>*
+   cd ETL_analysis_LastFM
+   python main.py
+   ```
    
 2. **Dépendances** :
 ```pip install pandas tqdm```
