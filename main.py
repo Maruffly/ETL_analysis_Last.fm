@@ -2,6 +2,9 @@
 Extract - Transform - Load - Analys
 """
 
+import ast
+from typing import Counter
+
 import pandas as pd
 from src.Extractor import LastFMclient
 from src.Transformer import DataEnricher
@@ -105,6 +108,65 @@ def save(df: pd.DataFrame, path: str) -> None:
     print(f"\n[SAVED] {path} ({len(df)} rows)")
 
 
+def analyze_genres_yearly(df: pd.DataFrame) -> None:
+    """Analyze and display the evolution of the 5 dominant genres per year.
+
+    Args:
+        df: Final enriched DataFrame.
+    """
+
+    tmp_df = df.copy()
+
+    # transform genre column to list
+    def parse_genres(x):
+        # if x is already a list / tuple / null return list / empty list
+        if isinstance(x, (list, tuple)):
+            return list(x)
+        if pd.isna(x):
+            return []
+            
+        # handle N/A parsing
+        if isinstance(x, str):
+            if x == "N/A" or x.strip() == "":
+                return []
+            try:
+                return ast.literal_eval(x)
+            except (ValueError, SyntaxError):
+                # if it's a simple string but not a formatted list
+                return [x]
+        
+        return []
+
+    tmp_df['genres_list'] = tmp_df['genres'].apply(parse_genres)
+
+    excluded_tags = ["female vocalists", "male vocalists", "seen live", "korean"]
+
+    years = sorted(tmp_df['ranking_year'].unique())
+    
+    for year in years:
+        year_data = tmp_df[tmp_df['ranking_year'] == year]
+
+        all_tags = []
+        for sublist in year_data['genres_list']:
+            for tag in sublist:
+                tag_clean = tag.lower().strip()
+                
+                # group kpop variants
+                if tag_clean in ["kpop", "k-pop"]:
+                    tag_clean = "k-pop"
+                
+                # filter generics
+                if tag_clean not in excluded_tags:
+                    all_tags.append(tag_clean)
+        
+        counts = Counter(all_tags)
+        top_5 = counts.most_common(5)
+        
+        genres_display = ", ".join([f"{genre} ({count})" for genre, count in top_5])
+        print(f"[{year}] : {genres_display}")
+
+
+
 def analyse(df: pd.DataFrame) -> None:
     """Print analysis summaries to stdout.
 
@@ -118,19 +180,20 @@ def analyse(df: pd.DataFrame) -> None:
     print("\n====| Global correlation matrix (2020–2024) |====")
     print(df[NUMERIC_COLS].corr())
 
-    print("\n----| Top 10 all-time (by track_listeners) |----")
-    top10 = (
-        df.sort_values("track_listeners", ascending=False)
-        [["track_name", "artist_name", "ranking_year", "track_listeners"]]
-        .head(10))
-    print(top10.to_string(index=False))
-
-    print("\n----| Most recurring artists in annual tops |----")
+    print("\n====| Most recurring artists in annual tops |====")
     print(df["artist_name"].value_counts().head(5).to_string())
+
+    print("\n====| Genre evolution by year|====")
+    analyze_genres_yearly(df)
+
 
 
 def main() -> None:
-    """Run the full ETL pipeline: extract, clean, enrich, save, and analyse"""
+    """Analyze and print the top 5 most frequent genres per year.
+    
+    Args:
+        df: Final enriched DataFrame containing 'genres' and 'ranking_year'.
+    """
     print(f"\n{'='*16}| ETL starting for {YEARS} |{'='*16}\n")
 
     client = LastFMclient()
