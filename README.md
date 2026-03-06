@@ -1,6 +1,6 @@
 # Music Trends ETL & Analysis (Last.fm 2020-2024)
 
-Ce projet implémente un pipeline ETL pour analyser les dynamiques de popularité dans l'industrie musicale sur les 5 dernières années. En utilisant l'API Last.fm, le script traite 100 titres pour identifier les corrélations entre la notoriété des artistes et le succès des morceaux.
+Ce projet implémente un pipeline ETL pour analyser les dynamiques de popularité dans l'industrie musicale sur les 5 dernières années. En utilisant l'API Last.fm, le script traite 1000 titres pour identifier les corrélations entre la notoriété des artistes et le succès des morceaux.
 
 ## Architecture
 - **Extraction** : Collecte des Top 200 morceaux annuels via l'API Last.fm.
@@ -13,9 +13,9 @@ Ce projet implémente un pipeline ETL pour analyser les dynamiques de popularit�
 ### 1. Corrélation : Notoriété de l'Artiste vs Succès du Titre
 La popularité d’un artiste est-elle corrélée à son nombre de followers ? Ou à la popularité de ses tracks ?
 
-- **Analyse des données** : La matrice de corrélation révèle un coefficient de **0.38** entre le nombre total d'auditeurs d'un artiste (listeners) et le succès d'un titre spécifique (track_listeners).
-- **Conclusion** : La corrélation est faible. Cela démontre qu'une large base de "followers" (notoriété) ne garantit pas le succès d'un morceau. Le public de Last.fm consomme les morceaux de manière indépendante de la stature de l'artiste.
-- On observe beaucoup "one time hit" avec un track_to_artist_ratio supérieur à 80%.
+- **Analyse des données** : La matrice de corrélation révèle un coefficient de **0.40** entre le nombre total d'auditeurs d'un artiste (listeners) et le succès d'un titre spécifique (track_listeners).
+- **Conclusion** : La corrélation est modérée. Cela démontre qu'une large base de "followers" ne garantit pas forcémenet le succes d'un morceau. Le public de Last.fm consomme les morceaux de manière indépendante de la stature de l'artiste.
+- On observe beaucoup "one time hit" avec un track_to_artist_ratio superieur 80%.
 
 ### 2. Évolution des genres (2020 - 2024)
 Y a-t-il une évolution des genres les plus écoutés sur la période ?
